@@ -1,0 +1,122 @@
+# Índice Global del Sistema KB-GASTRO-CAN-2025
+
+**Versión:** 1.0  
+**Fecha de revisión:** 21/05/2025  
+**Validación:** Alta - Sistema completo y validado
+
+---
+
+## Descripción General
+
+El sistema KB-GASTRO-CAN-2025 es una base estratégica de conocimiento gastronómico estructurada en bloques funcionales, fichas técnicas y herramientas aplicables. Diseñado para proporcionar soluciones prácticas a los retos de la restauración contemporánea, con especial atención al contexto canario, este sistema integra conocimiento especializado, metodologías probadas y recursos accionables para diferentes perfiles de usuario.
+
+## Estructura del Sistema
+
+El sistema se organiza en seis carpetas principales que contienen toda la información validada y lista para su aplicación:
+
+1. **01_FICHAS_VALIDADAS**: Fichas técnicas organizadas por bloques funcionales
+2. **02_DERIVADOS**: Kits, plantillas, guías y prompts GPT listos para implementación
+3. **03_GLOSARIO**: Terminología técnica con definiciones, aplicaciones y referencias
+4. **04_INDICES**: Índices global y por bloque para facilitar la navegación
+5. **05_PUBLICACION**: Materiales para presentación, validación y uso por terceros
+6. **06_INFORMES**: Informes estratégicos, propuestas y resúmenes ejecutivos
+
+## Bloques Funcionales
+
+El conocimiento se estructura en seis bloques temáticos principales:
+
+### B01: Gestión Financiera
+Metodologías y herramientas para la planificación financiera, control presupuestario y análisis de rentabilidad en establecimientos gastronómicos.
+
+**Fichas clave:**
+- [TECG-FINA-001: Presupuestación en Restaurantes](/KB-GASTRO-CAN-2025_FINAL/01_FICHAS_VALIDADAS/B01_Gestion_Financiera/TECG-FINA-001_presupuestacion_restaurantes.md)
+
+**Derivados destacados:**
+- [GUIA-PRES-001: Guía de Presupuestación](/KB-GASTRO-CAN-2025_FINAL/02_DERIVADOS/Guias/GUIA-PRES-001_guia_presupuestacion.md)
+
+### B02: Costos y Escandallos
+Sistemas para el cálculo, control y optimización de costes de producción en cocina, con foco en la rentabilidad de la oferta gastronómica.
+
+**Fichas clave:**
+- [GAST-PROC-001: Escandallo Básico](/KB-GASTRO-CAN-2025_FINAL/01_FICHAS_VALIDADAS/B02_Costos_y_Escandallos/GAST-PROC-001_escandallo_basico.md)
+
+**Derivados destacados:**
+- [KIT-ESC-001: Kit de Escandallo Básico](/KB-GASTRO-CAN-2025_FINAL/02_DERIVADOS/Kits/KIT-ESC-001_kit_escandallo_basico.md)
+- [PLANT-ESC-001: Plantilla de Escandallo Básico](/KB-GASTRO-CAN-2025_FINAL/02_DERIVADOS/Plantillas/PLANT-ESC-001_plantilla_escandallo_basico.md)
+
+### B03: Cartas y Menús
+Estrategias para el diseño, optimización y rentabilización de cartas y menús, aplicando principios de psicología del consumidor e ingeniería de menús.
+
+**Fichas clave:**
+- [CART-DIS-001: Diseño Estratégico de Cartas](/KB-GASTRO-CAN-2025_FINAL/01_FICHAS_VALIDADAS/B03_Cartas_y_Menus/CART-DIS-001_diseno_estrategico_cartas.md)
+
+**Derivados destacados:**
+- [KIT-OPT-001: Kit de Optimización de Cartas](/KB-GASTRO-CAN-2025_FINAL/02_DERIVADOS/Kits/KIT-OPT-001_kit_optimizacion_cartas.md)
+
+### B04: Personal y RRHH
+Metodologías para la gestión eficiente del equipo humano, incluyendo planificación de turnos, productividad y desarrollo profesional.
+
+**Fichas clave:**
+- [RRHH-TURN-001: Planificación Estratégica de Turnos](/KB-GASTRO-CAN-2025_FINAL/01_FICHAS_VALIDADAS/B04_Personal_y_RRHH/RRHH-TURN-001_planificacion_estrategica_turnos.md)
+
+**Derivados destacados:**
+- [KIT-PERS-001: Kit de Gestión de Personal](/KB-GASTRO-CAN-2025_FINAL/02_DERIVADOS/Kits/KIT-PERS-001_kit_gestion_personal.md)
+- [PLANT-TURN-001: Plantilla de Planificación de Turnos](/KB-GASTRO-CAN-2025_FINAL/02_DERIVADOS/Plantillas/PLANT-TURN-001_plantilla_planificacion_turnos.md)
+
+### B05: IA y Tecnología
+Estrategias para la implementación de tecnologías y sistemas de inteligencia artificial en la operativa gastronómica, mejorando eficiencia y experiencia del cliente.
+
+**Fichas clave:**
+- [TECNO-TRANS-001: Transformación Digital en Restauración](/KB-GASTRO-CAN-2025_FINAL/01_FICHAS_VALIDADAS/B05_IA_y_Tecnologia/TECNO-TRANS-001_transformacion_digital.md)
+
+**Derivados destacados:**
+- [KIT-DIGI-001: Kit de Transformación Digital](/KB-GASTRO-CAN-2025_FINAL/02_DERIVADOS/Kits/KIT-DIGI-001_kit_transformacion_digital.md)
+- [PROMPT-GPT-001: Prompt para Asistente IA](/KB-GASTRO-CAN-2025_FINAL/02_DERIVADOS/Prompts_GPT/PROMPT-GPT-001_asistente_operaciones_gastronomicas.md)
+
+### B06: Sostenibilidad y Economía Circular
+Prácticas para implementar modelos sostenibles en restauración, reduciendo impacto ambiental y optimizando recursos.
+
+**Fichas clave:**
+- [SOST-REST-001: Restauración Sostenible](/KB-GASTRO-CAN-2025_FINAL/01_FICHAS_VALIDADAS/B06_Sostenibilidad/SOST-REST-001_restauracion_sostenible.md)
+
+**Derivados destacados:**
+- [KIT-SOST-001: Kit de Sostenibilidad](/KB-GASTRO-CAN-2025_FINAL/02_DERIVADOS/Kits/KIT-SOST-001_kit_sostenibilidad.md)
+
+## Recursos Transversales
+
+### Glosario Técnico
+Terminología especializada con definiciones precisas, aplicaciones prácticas y referencias cruzadas.
+
+- [Glosario Técnico Gastronómico](/KB-GASTRO-CAN-2025_FINAL/03_GLOSARIO/Glosario_Tecnico_Gastronomico.md)
+
+### Rutas de Navegación por Perfil
+Guías personalizadas según el perfil del usuario para maximizar el aprovechamiento del sistema.
+
+- [Ruta para Restaurantes G0-G1](/KB-GASTRO-CAN-2025_FINAL/05_PUBLICACION/Rutas_de_Uso_por_Perfil/Ruta_Restaurante_G0-G1.md)
+- [Ruta para Restaurantes G2-G3](/KB-GASTRO-CAN-2025_FINAL/05_PUBLICACION/Rutas_de_Uso_por_Perfil/Ruta_Restaurante_G2-G3.md)
+- [Ruta para Consultores](/KB-GASTRO-CAN-2025_FINAL/05_PUBLICACION/Rutas_de_Uso_por_Perfil/Ruta_Consultor.md)
+- [Ruta para Formadores](/KB-GASTRO-CAN-2025_FINAL/05_PUBLICACION/Rutas_de_Uso_por_Perfil/Ruta_Formador.md)
+- [Ruta para Instituciones](/KB-GASTRO-CAN-2025_FINAL/05_PUBLICACION/Rutas_de_Uso_por_Perfil/Ruta_Institucion.md)
+
+### Informes Estratégicos
+Documentos de visión global que contextualizan el sistema y sus aplicaciones.
+
+- [Informe Estratégico Global](/KB-GASTRO-CAN-2025_FINAL/06_INFORMES/INFORME_ESTRATEGICO_GLOBAL.md)
+- [Informe Ejecutivo Final](/KB-GASTRO-CAN-2025_FINAL/06_INFORMES/INFORME_EJECUTIVO_FINAL.md)
+
+## Cómo Usar Este Sistema
+
+Para aprovechar al máximo el sistema KB-GASTRO-CAN-2025, recomendamos:
+
+1. **Identificar su perfil** y seguir la ruta de navegación correspondiente
+2. **Consultar el glosario** para familiarizarse con la terminología técnica
+3. **Explorar las fichas** de los bloques más relevantes para sus necesidades
+4. **Implementar los kits y derivados** prácticos relacionados
+5. **Adaptar los recursos** al contexto específico de su establecimiento
+
+Para una guía detallada de uso, consulte:
+- [Guía Rápida de Uso del Sistema](/KB-GASTRO-CAN-2025_FINAL/05_PUBLICACION/Guia_de_Implementacion_por_Nivel/Guia_Rapida_de_Uso.md)
+
+---
+
+*© 2025 KB-GASTRO-CAN. Desarrollado por Javier Santana. Todos los derechos reservados.*
