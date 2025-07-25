@@ -1,8 +1,8 @@
 name: Limpiar documentos
 on:
   push:
-    paths: ["docs/**/*.md"]   # solo vigila carpetas docs/
-  workflow_dispatch:          # opcional: la puedes lanzar a mano
+    paths: ["docs/**/*.md"]          # vigila la carpeta docs/
+  workflow_dispatch:                 # botón Run workflow opcional
 
 jobs:
   curar:
@@ -14,7 +14,9 @@ jobs:
         with:
           python-version: "3.11"
 
-      - run: pip install openai          # librería ChatGPT
+      # Instala versión antigua del SDK que admite ChatCompletion.create
+      - run: pip install openai==0.28.1
+
       - run: python .github/scripts/curate_docs.py
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
