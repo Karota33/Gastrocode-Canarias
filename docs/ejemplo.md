@@ -1,2 +1,1 @@
-Este es un doc de pruebba
-
+Esta frasse tiene errrores.
