@@ -1,0 +1,365 @@
+# Glosario Técnico Gastronómico
+
+**Versión:** 1.0  
+**Fecha de revisión:** 21/05/2025  
+**Validación de fuente:** Alta - Documentación especializada y práctica profesional
+
+---
+
+## Introducción
+
+Este glosario técnico recopila y define los términos clave utilizados en el sistema KB-GASTRO-CAN-2025, proporcionando un lenguaje común y preciso para todos los usuarios. Cada término incluye su definición técnica, aplicación práctica, referencias cruzadas a fichas relacionadas y consideraciones específicas para el contexto canario cuando corresponde.
+
+## Cómo usar este glosario
+
+- **Navegación alfabética**: Los términos están organizados alfabéticamente para facilitar su localización
+- **Referencias cruzadas**: Cada término incluye enlaces a fichas y recursos relacionados
+- **Niveles de complejidad**: Indicados con etiquetas [G0] a [G3] según nivel de madurez
+- **Contexto canario**: Sección específica cuando el término tiene particularidades insulares
+
+---
+
+## A
+
+### Amortización [G1]
+
+**Definición**: Distribución del coste de una inversión a lo largo de su vida útil estimada, reflejando la pérdida de valor por uso, obsolescencia o paso del tiempo.
+
+**Aplicación práctica**: En restauración, permite distribuir el coste de equipamiento, reformas o activos intangibles en varios ejercicios fiscales, impactando en el cálculo de rentabilidad real.
+
+**Fórmula**: Amortización anual = Valor de adquisición / Años de vida útil
+
+**Referencias**: 
+- Ficha TECG-FINA-001: Presupuestación en Restaurantes
+- Guía de Presupuestación para Restaurantes
+
+### APPCC (Análisis de Peligros y Puntos de Control Crítico) [G1]
+
+**Definición**: Sistema preventivo que identifica, evalúa y controla peligros significativos para la seguridad alimentaria a través de puntos críticos de control.
+
+**Aplicación práctica**: Obligatorio para establecimientos gastronómicos, establece protocolos de seguridad alimentaria, control de temperaturas, almacenamiento y manipulación de alimentos.
+
+**Componentes clave**:
+1. Análisis de peligros
+2. Determinación de puntos críticos
+3. Establecimiento de límites críticos
+4. Sistema de vigilancia
+5. Medidas correctivas
+6. Procedimientos de verificación
+7. Sistema de documentación
+
+**Contexto canario**: La aplicación del APPCC en Canarias debe considerar factores específicos como temperaturas ambientales más elevadas, particularidades en la cadena de suministro insular y productos locales específicos.
+
+**Referencias**:
+- Ficha SOST-REST-001: Restauración Sostenible
+
+## B
+
+### Beverage Cost [G1]
+
+**Definición**: Porcentaje que representa el coste de las bebidas vendidas respecto a los ingresos generados por su venta.
+
+**Aplicación práctica**: Indicador clave para evaluar la rentabilidad de la oferta de bebidas y establecer precios adecuados.
+
+**Fórmula**: Beverage Cost (%) = (Coste de bebidas vendidas ÷ Ingresos por venta de bebidas) × 100
+
+**Rangos recomendados**:
+- Refrescos y agua: 15-20%
+- Cerveza: 20-25%
+- Vino: 25-35%
+- Cócteles: 15-22%
+- Licores: 12-18%
+
+**Referencias**:
+- Ficha GAST-PROC-001: Escandallo Básico
+- Kit de Escandallo Básico
+
+### Break-even Point (Punto de Equilibrio) [G1]
+
+**Definición**: Nivel de ventas en el que los ingresos totales igualan a los costes totales, resultando en beneficio cero. Representa el umbral mínimo de actividad para evitar pérdidas.
+
+**Aplicación práctica**: Permite determinar el volumen mínimo de ventas necesario para cubrir todos los costes, sirviendo como referencia para establecer objetivos comerciales y evaluar la viabilidad del negocio.
+
+**Fórmulas**:
+- Break-even en unidades = Costes fijos totales ÷ (Precio unitario - Coste variable unitario)
+- Break-even en euros = Costes fijos totales ÷ (1 - (Costes variables totales ÷ Ventas totales))
+
+**Referencias**:
+- Ficha TECG-FINA-001: Presupuestación en Restaurantes
+- Guía de Presupuestación para Restaurantes
+
+## C
+
+### Coste de Personal (Labor Cost) [G1]
+
+**Definición**: Porcentaje que representa el coste total de la plantilla (salarios, seguridad social, formación, uniformes, etc.) respecto a los ingresos totales del establecimiento.
+
+**Aplicación práctica**: Indicador fundamental para evaluar la eficiencia operativa y la productividad del personal.
+
+**Fórmula**: Labor Cost (%) = (Coste total de personal ÷ Ingresos totales) × 100
+
+**Rangos recomendados**:
+- Restaurantes de servicio completo: 30-35%
+- Restaurantes de servicio rápido: 25-30%
+- Cafeterías: 25-28%
+- Establecimientos premium: 35-40%
+
+**Contexto canario**: En zonas turísticas de Canarias, la estacionalidad marcada puede requerir ajustes en los objetivos de labor cost según temporada, siendo recomendable establecer rangos diferenciados para alta y baja temporada.
+
+**Referencias**:
+- Ficha RRHH-TURN-001: Planificación Estratégica de Turnos
+- Kit de Gestión de Personal
+
+## D
+
+### Dark Kitchen [G2]
+
+**Definición**: Modelo de negocio gastronómico que opera exclusivamente a través de delivery, sin sala para comensales, optimizando costes operativos y maximizando eficiencia.
+
+**Aplicación práctica**: Permite reducir costes de alquiler, personal de sala y equipamiento, centrándose exclusivamente en la producción culinaria para entrega a domicilio.
+
+**Características clave**:
+- Sin servicio de sala
+- Operación exclusiva para delivery
+- Posibilidad de albergar múltiples marcas virtuales
+- Optimización de espacio y recursos
+- Ubicación basada en logística, no en visibilidad
+
+**Contexto canario**: En Canarias, las dark kitchens tienen especial potencial en zonas turísticas con alta densidad poblacional y elevados costes de alquiler, como el sur de Tenerife o Gran Canaria.
+
+**Referencias**:
+- Ficha TECNO-TRANS-001: Transformación Digital en Restauración
+- Kit de Transformación Digital
+
+## E
+
+### EBITDA [G2]
+
+**Definición**: Earnings Before Interest, Taxes, Depreciation, and Amortization (Beneficio antes de intereses, impuestos, depreciaciones y amortizaciones). Indicador financiero que mide el beneficio bruto de explotación antes de deducir los gastos financieros.
+
+**Aplicación práctica**: Permite evaluar el desempeño operativo del negocio independientemente de su estructura financiera, régimen impositivo y política de amortizaciones.
+
+**Fórmula**: EBITDA = Ingresos operativos - Gastos operativos (excluyendo intereses, impuestos, depreciaciones y amortizaciones)
+
+**Referencias**:
+- Ficha TECG-FINA-001: Presupuestación en Restaurantes
+- Guía de Presupuestación para Restaurantes
+
+### Escandallo [G0]
+
+**Definición**: Cálculo detallado del coste de producción de un plato o bebida, considerando todos los ingredientes y procesos involucrados.
+
+**Aplicación práctica**: Herramienta fundamental para determinar precios de venta, controlar costes y analizar la rentabilidad de la oferta gastronómica.
+
+**Componentes clave**:
+1. Listado completo de ingredientes
+2. Cantidades precisas
+3. Precios actualizados
+4. Consideración de mermas
+5. Cálculo de coste total y unitario
+6. Determinación de food cost porcentual
+
+**Contexto canario**: El escandallo en Canarias debe considerar los sobrecostes logísticos insulares, que pueden incrementar significativamente el precio de ciertos ingredientes importados.
+
+**Referencias**:
+- Ficha GAST-PROC-001: Escandallo Básico
+- Kit de Escandallo Básico
+- Plantilla de Escandallo Básico
+
+## F
+
+### Food Cost [G0]
+
+**Definición**: Porcentaje que representa el coste de los alimentos utilizados respecto al precio de venta del plato o al total de ventas de alimentos.
+
+**Aplicación práctica**: Indicador clave para evaluar la rentabilidad de platos individuales o de la oferta gastronómica en conjunto.
+
+**Fórmulas**:
+- Food Cost por plato (%) = (Coste total de ingredientes ÷ Precio de venta) × 100
+- Food Cost global (%) = (Coste total de alimentos vendidos ÷ Ingresos por venta de alimentos) × 100
+
+**Rangos recomendados**:
+- Entrantes/Aperitivos: 20-25%
+- Platos principales: 25-35%
+- Postres: 15-25%
+- Menús degustación: 30-35%
+
+**Contexto canario**: En establecimientos canarios, especialmente en zonas no turísticas, puede ser necesario ajustar los rangos objetivo considerando el poder adquisitivo local y los sobrecostes logísticos.
+
+**Referencias**:
+- Ficha GAST-PROC-001: Escandallo Básico
+- Kit de Escandallo Básico
+
+## G
+
+### Gestión de Inventario [G1]
+
+**Definición**: Conjunto de procesos y técnicas para controlar eficientemente las existencias de un establecimiento gastronómico, optimizando niveles de stock, reduciendo desperdicios y asegurando disponibilidad.
+
+**Aplicación práctica**: Permite minimizar capital inmovilizado, reducir pérdidas por caducidad, controlar costes y asegurar la disponibilidad de ingredientes necesarios.
+
+**Componentes clave**:
+1. Registro de entradas y salidas
+2. Control de stock mínimo y punto de pedido
+3. Rotación de inventario (FIFO/LIFO)
+4. Valoración de existencias
+5. Análisis de consumos y mermas
+
+**Referencias**:
+- Ficha IA-OP-001: Gestión de Inventario con IA
+- Kit de Transformación Digital
+
+## I
+
+### Ingeniería de Menús [G2]
+
+**Definición**: Metodología analítica que clasifica los platos según su popularidad y rentabilidad para tomar decisiones estratégicas sobre la carta.
+
+**Aplicación práctica**: Permite optimizar la oferta gastronómica, destacar platos rentables, reformular los problemáticos y eliminar los no rentables ni populares.
+
+**Matriz de clasificación**:
+- **Estrellas**: Alta popularidad + alta rentabilidad
+- **Caballos de batalla**: Alta popularidad + baja rentabilidad
+- **Puzzles**: Baja popularidad + alta rentabilidad
+- **Perros**: Baja popularidad + baja rentabilidad
+
+**Contexto canario**: En establecimientos canarios con fuerte componente turístico, es recomendable realizar análisis diferenciados por nacionalidad de clientes, ya que las preferencias pueden variar significativamente.
+
+**Referencias**:
+- Ficha CART-DIS-001: Diseño Estratégico de Cartas
+- Ficha IA-OP-002: Ingeniería de Menús con IA
+- Kit de Optimización de Cartas
+
+## K
+
+### KPI (Key Performance Indicator) [G1]
+
+**Definición**: Indicador clave de desempeño que mide el nivel de rendimiento de un proceso, permitiendo evaluar el grado de cumplimiento de los objetivos estratégicos.
+
+**Aplicación práctica**: Facilita la toma de decisiones basada en datos, estableciendo métricas objetivas para evaluar diferentes áreas del negocio gastronómico.
+
+**KPIs clave en restauración**:
+- Food & Beverage Cost (%)
+- Labor Cost (%)
+- RevPASH
+- Ticket medio
+- Rotación de mesas
+- Tasa de captación/retención de clientes
+- Valoraciones en plataformas
+
+**Referencias**:
+- Ficha TECG-FINA-001: Presupuestación en Restaurantes
+- Ficha RRHH-TURN-001: Planificación Estratégica de Turnos
+
+## M
+
+### Margen Bruto [G0]
+
+**Definición**: Diferencia entre el precio de venta y el coste directo de un producto o servicio, expresada en valor absoluto o porcentaje.
+
+**Aplicación práctica**: Permite evaluar la rentabilidad directa de cada plato, bebida o servicio antes de considerar costes fijos.
+
+**Fórmulas**:
+- Margen bruto (€) = Precio de venta - Coste directo
+- Margen bruto (%) = ((Precio de venta - Coste directo) ÷ Precio de venta) × 100
+
+**Referencias**:
+- Ficha GAST-PROC-001: Escandallo Básico
+- Kit de Escandallo Básico
+
+### Merma [G0]
+
+**Definición**: Pérdida o reducción de producto durante su almacenamiento, manipulación o procesamiento, que disminuye la cantidad disponible para venta o uso.
+
+**Aplicación práctica**: Su control y consideración en escandallos es fundamental para calcular costes reales y establecer precios adecuados.
+
+**Tipos de mermas**:
+- **Merma operativa**: Generada durante la preparación (limpieza, corte, cocción)
+- **Merma por almacenamiento**: Pérdida de peso o volumen durante conservación
+- **Merma por caducidad**: Producto descartado por vencimiento
+- **Merma por manipulación**: Roturas, derrames o contaminación
+
+**Contexto canario**: En Canarias, factores como la temperatura ambiental más elevada y la humedad pueden incrementar las mermas en ciertos productos, especialmente en zonas costeras.
+
+**Referencias**:
+- Ficha GAST-PROC-001: Escandallo Básico
+- Ficha SOST-REST-001: Restauración Sostenible
+
+## P
+
+### Prime Cost [G1]
+
+**Definición**: Suma de los costes de alimentos y bebidas (Food & Beverage Cost) y los costes de personal (Labor Cost), representando los dos principales gastos variables de un establecimiento gastronómico.
+
+**Aplicación práctica**: Indicador fundamental para evaluar la eficiencia operativa global y la rentabilidad potencial del negocio.
+
+**Fórmula**: Prime Cost (%) = Food & Beverage Cost (%) + Labor Cost (%)
+
+**Rangos recomendados**:
+- Restaurantes de servicio completo: 55-65%
+- Restaurantes de servicio rápido: 45-55%
+- Establecimientos premium: 60-70%
+
+**Referencias**:
+- Ficha TECG-FINA-001: Presupuestación en Restaurantes
+- Guía de Presupuestación para Restaurantes
+
+## R
+
+### RevPASH (Revenue Per Available Seat Hour) [G2]
+
+**Definición**: Ingresos generados por asiento disponible y hora, midiendo la eficiencia en la generación de ingresos considerando tanto el precio como la rotación.
+
+**Aplicación práctica**: Permite evaluar la optimización del espacio y tiempo disponibles, identificando oportunidades para incrementar ingresos.
+
+**Fórmula**: RevPASH = Ingresos totales ÷ (Número de asientos × Horas de operación)
+
+**Referencias**:
+- Ficha TECG-FINA-001: Presupuestación en Restaurantes
+- Ficha RRHH-TURN-001: Planificación Estratégica de Turnos
+
+### Rotación de Mesas [G1]
+
+**Definición**: Número promedio de veces que cada mesa es ocupada durante un servicio o periodo determinado.
+
+**Aplicación práctica**: Indicador clave de eficiencia operativa que impacta directamente en la capacidad de generación de ingresos del establecimiento.
+
+**Fórmula**: Rotación = Número total de clientes atendidos ÷ Número de mesas disponibles
+
+**Factores de influencia**:
+- Tipo de servicio y concepto gastronómico
+- Duración media de la experiencia
+- Eficiencia operativa
+- Gestión de reservas
+- Diseño del menú
+
+**Referencias**:
+- Ficha CART-DIS-001: Diseño Estratégico de Cartas
+- Ficha RRHH-TURN-001: Planificación Estratégica de Turnos
+
+## T
+
+### Ticket Medio [G0]
+
+**Definición**: Gasto promedio por cliente o mesa en un establecimiento gastronómico durante una visita.
+
+**Aplicación práctica**: Indicador fundamental para evaluar la capacidad de generación de ingresos y la efectividad de estrategias de venta sugestiva.
+
+**Fórmulas**:
+- Ticket medio por cliente = Ingresos totales ÷ Número de clientes
+- Ticket medio por mesa = Ingresos totales ÷ Número de mesas ocupadas
+
+**Estrategias de incremento**:
+- Diseño estratégico de carta
+- Venta sugestiva
+- Maridajes y recomendaciones
+- Promociones de alto valor
+- Menús degustación
+
+**Referencias**:
+- Ficha CART-DIS-001: Diseño Estratégico de Cartas
+- Kit de Optimización de Cartas
+
+---
+
+*© 2025 KB-GASTRO-CAN. Desarrollado por Javier Santana. Todos los derechos reservados.*

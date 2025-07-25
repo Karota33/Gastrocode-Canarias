@@ -1,0 +1,71 @@
+# KB-GASTRO-CAN-2025
+
+## Base Estratégica de Conocimiento Gastronómico para Canarias
+
+![Gastronomía Canaria](https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1287&q=80)
+
+## Descripción General
+
+KB-GASTRO-CAN-2025 es una base estratégica de conocimiento gastronómico desarrollada específicamente para el sector de restauración en Canarias. Este sistema integra conocimientos técnicos, metodologías operativas y herramientas prácticas para la gestión, optimización y desarrollo de establecimientos gastronómicos.
+
+La base de conocimiento está estructurada en bloques funcionales interconectados que abarcan desde la gestión financiera y control de costes hasta la aplicación de tecnologías avanzadas e inteligencia artificial en la operativa gastronómica.
+
+## Estructura del Repositorio
+
+El repositorio está organizado en seis secciones principales:
+
+1. **[01_FICHAS_VALIDADAS](./01_FICHAS_VALIDADAS/)**: Documentos técnicos validados organizados por bloques funcionales
+2. **[02_DERIVADOS](./02_DERIVADOS/)**: Herramientas prácticas, plantillas, guías y recursos aplicables
+3. **[03_GLOSARIO](./03_GLOSARIO/)**: Terminología técnica del sector gastronómico
+4. **[04_INDICES](./04_INDICES/)**: Índices de navegación del sistema y por bloques funcionales
+5. **[05_PUBLICACION](./05_PUBLICACION/)**: Rutas de uso, guías de implementación y casos prácticos
+6. **[06_INFORMES](./06_INFORMES/)**: Informes estratégicos y análisis del sistema
+
+## Bloques Funcionales
+
+El sistema KB-GASTRO-CAN-2025 está organizado en bloques funcionales que representan áreas clave de la gestión gastronómica:
+
+- **B01 - Gestión Financiera**: Control económico y presupuestación
+- **B02 - Costos y Escandallos**: Análisis y optimización de costes
+- **B03 - Cartas y Menús**: Diseño estratégico e ingeniería de menús
+- **B04 - Personal y RRHH**: Gestión de equipos y productividad
+- **B05 - IA y Tecnología**: Aplicaciones tecnológicas avanzadas
+- **B06 - Sostenibilidad y Economía Circular**: Prácticas sostenibles
+
+## Cómo Utilizar este Repositorio
+
+Para un aprovechamiento óptimo de KB-GASTRO-CAN-2025:
+
+1. Comience explorando el [Índice del Sistema](./04_INDICES/INDICE_SISTEMA.md) para obtener una visión general
+2. Identifique el bloque funcional más relevante para sus necesidades actuales
+3. Consulte las fichas técnicas validadas del bloque seleccionado
+4. Explore los derivados prácticos asociados para implementación inmediata
+5. Utilice las rutas de uso por perfil para una navegación guiada según su tipo de establecimiento
+
+## Aplicaciones Prácticas
+
+KB-GASTRO-CAN-2025 ha sido diseñado para múltiples aplicaciones:
+
+- **Consultoría Gastronómica**: Base técnica para diagnósticos y transformaciones
+- **Formación Profesional**: Material estructurado para capacitación
+- **Autoaplicación**: Recursos directamente implementables por gestores
+- **Desarrollo de Productos Digitales**: Base para herramientas y aplicaciones
+- **Investigación Sectorial**: Marco conceptual para estudios gastronómicos
+
+## Contribuciones y Evolución
+
+Este sistema está diseñado para evolucionar continuamente. Se recomienda:
+
+- Documentar adaptaciones y mejoras
+- Compartir casos de implementación exitosa
+- Proponer nuevos bloques funcionales o derivados
+- Actualizar datos según evolucione el sector
+
+## Licencia y Uso
+
+© 2025 KB-GASTRO-CAN. Desarrollado por Javier Santana.
+Todos los derechos reservados.
+
+---
+
+*La gastronomía canaria merece herramientas de gestión a la altura de su calidad y potencial.*
