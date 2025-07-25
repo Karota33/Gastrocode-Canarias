@@ -1,4 +1,4 @@
-# Plantilla de Propuesta de Ajustes  
+# Propuesta de Ajustes  
 ## Objetivo  
 - Reducción de costos operativos y aumento de rentabilidad.  
 
