@@ -1,0 +1,20 @@
+name: Limpiar documentos
+on:
+  push:
+    paths: ["docs/**/*.md"]   # solo vigila carpetas docs/
+  workflow_dispatch:          # opcional: la puedes lanzar a mano
+
+jobs:
+  curar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install openai          # librería ChatGPT
+      - run: python .github/scripts/curate_docs.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
