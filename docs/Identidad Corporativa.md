@@ -1,4 +1,4 @@
-# 2. IDENTIDAD CORPORATIVA
+# IDENTIDAD CORPORATIVA
 
 ## ¿QUIÉN SOMOS?
 Somos una herramienta operativa para profesionales del sector gastronómico y de formación, enfocada en resolver problemas reales de gestión, costos y sostenibilidad con soluciones claras y aplicables. No somos un "referente" ni un "sistema mágico", sino un conjunto de procesos, herramientas y acompañamiento para que los negocios y docentes trabajen con más orden y menos frustración.
@@ -29,7 +29,7 @@ Ayudar a profesionales del sector gastronómico (docentes, PYMES y consultores) 
 
 ---
 
-## COMO NOS COMPORTAMOS
+## CÓMO NOS COMPORTAMOS
 - **Sencillez:**  
   - No usamos términos como "disrupción", "transformación digital" o "ecosistema".  
   - Explicamos todo con ejemplos concretos (ej: "Este ajuste en la carta te ahorra 15€/día").  
