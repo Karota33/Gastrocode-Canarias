@@ -3,34 +3,37 @@ name: Limpiar documentos
 on:
   push:
     paths:
-      - 'docs/**/*.md'      # vigila la carpeta docs/
+      - "docs/**/*.md"        # vigila la carpeta docs/
   workflow_dispatch:
 
 permissions:
-  contents: write           # permite que el workflow haga push
+  contents: write            # permite que el workflow haga push
 
 jobs:
   curar:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           persist-credentials: false   # usamos un token limpio
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - run: pip install openai==0.28.1   # SDK compatible
+      - name: Instalar SDK OpenAI
+        run: pip install openai==0.28.1   # versión compatible
 
       - name: Ejecutar limpiador
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_API_KEY: "${{ secrets.OPENAI_API_KEY }}"
         run: python .github/scripts/curate_docs.py
 
-           - name: Commit cambios curados
+      - name: Commit cambios curados
         env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         run: |
           if git diff --quiet docs; then
             echo "Sin cambios"
