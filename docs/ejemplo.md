@@ -1,1 +1,5 @@
-Esta frasse tiene errrores.
+---
+title: "Ejemplo"
+tags: [consultoría, gastronomía]
+---
+Esta frase tiene errores.
