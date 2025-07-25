@@ -1,4 +1,4 @@
-# 1. MODELO DE NEGOCIO
+# MODELO DE NEGOCIO
 
 ## NIVELES DE CLIENTES (G0-G3)
 
@@ -11,7 +11,7 @@
 
 ---
 
-## VALOR PROPUESO POR NIVEL
+## VALOR PROPUESTO POR NIVEL
 
 - **G0:**  
   - Reducción de costos operativos entre **10-20%**.  
