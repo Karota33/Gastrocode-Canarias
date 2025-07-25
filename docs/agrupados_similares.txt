@@ -1,0 +1,8 @@
+------ GRUPO ------
+GAST-MENU-003_ingenieria_menus.txt
+GAST-MENU-005_analisis_rentabilidad_plato.txt
+
+------ GRUPO ------
+INFORME_AUDITORIA_ESTRATEGICA_KB-GASTRO-CAN-2025.txt
+INFORME_ESTRATEGICO_GLOBAL.txt
+
