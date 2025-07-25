@@ -70,4 +70,4 @@ Este documento se revisa **trimestralmente** y se actualiza basándose en:
 - Feedback de clientes.  
 - Resultados de proyectos.  
 - Cambios en el mercado o tecnología.  
-- Nuevas oportunidades detectadas en análisis de datos.  
+- Nuevas oportunidades detectadas en análisis de datos.
