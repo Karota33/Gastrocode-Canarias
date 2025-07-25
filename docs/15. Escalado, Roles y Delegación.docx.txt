@@ -1,0 +1,107 @@
+# 14. ESCALADO, ROLES Y DELEGACIÓN
+
+## OBJETIVO DEL BLOQUE
+
+Facilitar una futura incorporación de colaboradores, aliados o delegaciones sin perder la esencia ni el control de calidad del sistema. Este bloque define qué tareas se pueden delegar, qué perfiles se necesitarán, cómo se hace el onboarding y qué entregables y límites tiene cada rol.
+
+## CRITERIOS PARA COLABORAR O NO COLABORAR
+
+### ✅ SÍ COLABORAR si se cumple:
+- **Respeto al contexto:** Conoce o respeta el contexto operativo real de PYMES
+- **Experiencia demostrable:** Tiene experiencia real y verificable en su especialidad
+- **Valores compartidos:** Comparte claridad, utilidad, ética y rechazo al postureo
+- **Aportación neta:** Aporta más valor del que consume en coordinación
+- **Actitud de aprendizaje:** Prueba, aprende, recibe feedback y mejora
+- **Respeto mutuo y complementariedad:** Sin duplicación de funciones
+
+### ⛔ NO COLABORAR (o posponer) si:
+- **Uso instrumental:** Solo busca usar tu marca/sistema como escaparate
+- **Falta de disciplina:** No respeta tiempos, entregas o procesos claros
+- **Discurso vacío:** Promete resultados sin criterio real
+- **Genera más trabajo:** Más gestión que aporte
+- **Beneficio unilateral:** Solo busca beneficio propio
+
+## ROLES DEFINIDOS PARA DELEGACIÓN
+
+| Rol | Objetivo principal | ¿Delegable? | Nivel supervisión | Ejemplo tarea |
+|-----|--------------------|-------------|-------------------|---------------|
+| Asistente operativo | Apoyo tareas repetitivas | Sí | Bajo | Agendar, correos |
+| Editor entregables | Dar forma final informes | Sí | Medio | Formato informes |
+| Coordinador proyecto | Seguimiento tareas/tiempos | Parcial | Alto | Gestionar hitos |
+| Consultor asociado | Ejecución partes servicio | Parcial | Alto | Entrevistas |
+| Facilitador formativo | Impartir talleres/módulos | Sí | Medio | Dictar módulo |
+
+## PROCESO DE ONBOARDING (INCORPORACIÓN)
+
+### Paso 1: Identificación y contacto inicial
+- **Acción:** Encontrar al candidato adecuado
+- **Herramienta:** Directorio de aliados, recomendaciones
+- **Criterios:** Valores, experiencia, complementariedad
+
+### Paso 2: Manual base de bienvenida
+- **Contenido:**
+  - Documento 01: Identidad de la Empresa
+  - Documento 02: Modelo de Negocio
+  - Documento 04: Procesos Operativos
+  - Documento 14: Este documento
+- **Herramienta:** Carpeta compartida en Google Drive
+
+### Paso 3: Aterrizaje guiado
+- **Acción:** Sesión introductoria (1 hora)
+- **Contenido:**
+  - Visión, valores y forma de trabajo
+  - Expectativas claras
+  - Sistema de comunicación
+- **Herramienta:** Checklist Aterrizaje (ver Sección 3)
+
+### Paso 4: Acceso a herramientas
+- **Acción:** Proporcionar acceso necesario
+- **Herramientas:**
+  - Google Drive (permisos limitados)
+  - Notion (espacio específico)
+  - Canva (plantillas específicas)
+- **Regla:** Acceso mínimo necesario
+
+### Paso 5: Primer encargo piloto
+- **Acción:** Asignar tarea pequeña y bien definida
+- **Características:**
+  - Entregable claro
+  - Plazo definido
+  - Resultado medible
+- **Ejemplo:** Formatear un informe de diagnóstico
+
+### Paso 6: Feedback estructurado
+- **Acción:** Revisión, feedback y ajuste
+- **Protocolo:**
+  1. Qué funcionó bien
+  2. Qué no funcionó
+  3. 1 mejora para la próxima vez
+- **Herramienta:** Formulario Feedback (ver Sección 3)
+
+### Paso 7: Evaluación inicial
+- **Acción:** Evaluar colaboración tras 1-2 encargos
+- **Criterios:**
+  - Calidad del trabajo
+  - Alineación con valores
+  - Comunicación efectiva
+- **Decisión:** Continuar, ajustar o finalizar
+
+## GESTIÓN DE LA RELACIÓN
+
+### Comunicación clara
+- **Canales definidos:** Email para temas formales, WhatsApp para urgencias
+- **Frecuencia acordada:** Reuniones semanales/bimensuales
+- **Formato:** Agenda clara, minutos de reunión
+
+### Expectativas realistas
+- **Tiempo:** Plazos claros y realistas
+- **Entregables:** Especificación detallada
+- **Forma de trabajo:** Procesos y herramientas definidas
+
+### Feedback continuo
+- **Diálogo abierto:** Sobre avances, bloqueos y mejoras
+- **Sistema estructurado:** Feedback formal cada mes
+- **Documentación:** Acuerdos y aprendizajes
+
+## DOCUMENTO VIVO
+Este documento se activa progresivamente al comenzar a delegar o formar a otros.

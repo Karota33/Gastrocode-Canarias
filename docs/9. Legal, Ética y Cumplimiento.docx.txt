@@ -1,0 +1,102 @@
+# 8. LEGAL, ÉTICA Y CUMPLIMIENTO
+
+## FORMA JURÍDICA Y SITUACIÓN ACTUAL
+
+### Estado actual
+- Actividad profesional en proceso de formalización como autónomo
+- Régimen de estimación objetiva (módulos)
+
+### Ubicación fiscal y operativa
+- Las Palmas de Gran Canaria, Islas Canarias
+- Actividad: Consultoría gastronómica y formativa
+
+## DOCUMENTACIÓN LEGAL BASE
+
+### Aviso legal y política de privacidad
+- **Para:** Web y newsletter
+- **Contenido mínimo:**
+  - Identificación del responsable
+  - Finalidad del tratamiento de datos
+  - Derechos del usuario
+  - Política de cookies
+- **Herramienta:** Generador de avisos legales (iubenda.com)
+
+### Condiciones de prestación de servicios
+- **Para:** Consultoría, formación, productos digitales
+- **Contenido mínimo:**
+  - Descripción del servicio
+  - Precio y forma de pago
+  - Duración y terminación
+  - Propiedad intelectual
+  - Limitación de responsabilidad
+- **Herramienta:** [Ver plantilla en Sección 3: Condiciones_Prestacion_Servicios.docx]
+
+### Plantillas de presupuesto y contrato
+- **Presupuesto:**
+  - Desglose del servicio
+  - Precio total
+  - Validez del presupuesto
+  - Condiciones de pago
+- **Contrato:**
+  - Partes implicadas
+  - Objeto del contrato
+  - Obligaciones de cada parte
+  - Duración y terminación
+  - Confidencialidad
+- **Herramienta:** [Ver plantillas en Sección 3]
+
+### Política de protección de datos
+- **Para:** Clientes, formularios, contenido
+- **Contenido mínimo:**
+  - Finalidad del tratamiento
+  - Legitimación
+  - Destinatarios
+  - Derechos del interesado
+  - Medidas de seguridad
+- **Herramienta:** [Ver plantilla en Sección 3: Politica_Proteccion_Datos.docx]
+
+## PRINCIPIOS ÉTICOS DE LA CONSULTORÍA
+
+### Cumplimiento
+- Actuar siempre dentro del marco legal vigente y de las buenas prácticas profesionales
+- Ejemplo: No ofrecer servicios fuera de mi competencia
+
+### Interés del cliente
+- Priorizar las necesidades reales y el bienestar a largo plazo del cliente
+- Ejemplo: Recomendar no hacer un proyecto si no es viable
+
+### Supervisión crítica
+- No delegar tareas críticas sin supervisión adecuada
+- Ejemplo: Si delego análisis financiero, reviso los resultados
+
+### No colaboración con prácticas negativas
+- Rechazar trabajar con clientes o proyectos que impliquen:
+  - Greenwashing
+  - Explotación laboral
+  - Prácticas antiéticas
+- Ejemplo: No trabajar con un restaurante que paga en negro
+
+## PRINCIPIOS DE SOSTENIBILIDAD Y TERRITORIO
+
+### Producto local y seasonal
+- Promover y apoyar el uso de productos de proximidad y temporada
+- Ejemplo: En los diagnósticos, priorizar recomendaciones con proveedores locales
+
+### Minimización del impacto digital
+- Operar con infraestructura digital ligera y eficiente
+- Ejemplo: Usar herramientas básicas en lugar de múltiples SaaS
+
+### Contratación local
+- Priorizar proveedores, colaboradores y servicios de Canarias
+- Ejemplo: Contratar a diseñadores gráficos canarios
+
+### Cultura canaria
+- Integrar y respetar la cultura gastronómica canaria
+- Ejemplo: Respetar horarios y costumbres locales en los proyectos
+
+### Promoción de prácticas responsables
+- Ayudar a los clientes a integrar prácticas sostenibles
+- Ejemplo: Reducir desperdicios, apoyo a proveedores locales
+
+## DOCUMENTO VIVO
+Este documento se actualiza anualmente o cuando hay cambios legales significativos.

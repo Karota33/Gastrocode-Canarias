@@ -1,0 +1,99 @@
+# 2. MODELO DE NEGOCIO
+
+## PROPUESTA DE VALOR DIFERENCIADORA
+
+"Transformamos negocios gastronómicos y formativos 'a ojo' en sistemas ordenados, rentables y orientados al dato, combinando experiencia real, herramientas accesibles e inteligencia artificial aplicada."
+
+**Refrendada en el mercado:**
+"Orden operativo real + acompañamiento + herramientas accesibles. Nada de humo. Todo aplicado."
+
+## SEGMENTOS DE CLIENTES
+
+### Patrón A (Prioritario): Docentes y Formadores
+- **Características:** Sobrecarga, materiales desorganizados, sin estructura clara.
+- **Problema clave:** Frustración por falta de claridad, repetición de errores año a año.
+- **Ejemplo real:** Profesor de FP con materiales desordenados.
+- **Solución:** Mentoría + rediseño sistema didáctico.
+- **Resultados medibles:** Orden personal, uso sostenible de materiales, menor desgaste.
+
+### Patrón B (Prioritario): PYMES Gastronómicas
+- **Características:** Bares, cafeterías, restaurantes locales.
+- **Problema clave:** Márgenes ajustados, estructura operativa débil.
+- **Ejemplo real:** Cafetería G0 sin escandallos definidos.
+- **Solución:** Diagnóstico 360° + Plan de Acción + Implantación.
+- **Resultados medibles:** Reducción de compras un 22% en 1 mes.
+
+### Patrón C (Emergente): Profesionales del Sector
+- **Características:** Buscan herramientas digitales útiles.
+- **Problema clave:** Falta de sistemas operativos claros.
+- **Ejemplo real:** Chef con TPV pero sin análisis de datos.
+- **Solución:** Formación + implementación de dashboards.
+- **Resultados medibles:** Mayor control de costes y rentabilidad.
+
+## CANALES DE DISTRIBUCIÓN
+
+### Canal Directo (60% de clientes)
+- **Cómo funciona:** Contacto inicial en LinkedIn/Instagram → Mini diagnóstico gratuito → Propuesta formal.
+- **Proceso:** 
+  1. Contacto inicial (WhatsApp/email/DM)
+  2. Mini diagnóstico gratuito (30 min)
+  3. Propuesta formal personalizada
+  4. Inicio del proyecto
+- **Herramientas:** CRM Básico, Formulario de contacto, Plantilla propuesta.
+
+### Comunidad (30% de clientes)
+- **Cómo funciona:** Relaciones nutridas a través de newsletter, encuentros micro, referidos con propósito.
+- **Estrategia:**
+  - Newsletter mensual con insights prácticos
+  - Encuentros micro online (30 min)
+  - Sistema de referidos con seguimiento
+- **Herramientas:** Substack, Google Forms, Sheets para seguimiento.
+
+### Alianzas (10% de clientes)
+- **Cómo funciona:** Colaboraciones con profesionales complementarios.
+- **Criterios para aliados:**
+  - Comparten valores (claridad, utilidad, ética)
+  - Aportan más valor del que consumen
+  - Respeto mutuo y complementariedad
+- **Herramientas:** Directorio de aliados, Acuerdos de colaboración.
+
+## FUENTES DE INGRESOS
+
+| Servicio | Precio base | Margen bruto | Frecuencia |
+|----------|-------------|--------------|------------|
+| Diagnóstico Exprés 360° | 350-450 € | 75% | 2-3 semanas |
+| Plan de Acción Priorizado | 180 € | 85% | 1 semana |
+| Implantación Operativa | 400-700 € | 65% | 2-4 semanas |
+| Formación Práctica | 80-120 €/sesión | 80% | Sesiones puntuales |
+| Retainer Mensual | 150 € | 90% | Mensual |
+| Mentoría Individual | 180 € | 85% | 1 mes |
+
+## ESTRUCTURA DE COSTES
+
+| Categoría | Porcentaje | Desglose |
+|-----------|------------|----------|
+| Infraestructura mínima | 10% | Dominio, hosting, herramientas básicas |
+| Herramientas digitales | 15% | Suscripciones esenciales (Notion, Canva, etc.) |
+| Adquisición de clientes | 25% | Tiempo en marketing, contenido, networking |
+| Servicios | 50% | Tiempo en consultoría, formación, mentoría |
+
+## ENFOQUE DE TRABAJO
+
+### Modular y flexible
+- Servicios combinables según necesidades del cliente.
+- Ejemplo: Diagnóstico + Plan de Acción + Retainer Mensual.
+
+### Diagnóstico primero
+- Todo proyecto comienza con diagnóstico estructurado.
+- Ejemplo: Diagnóstico Exprés 360° antes de cualquier intervención.
+
+### Microimplementación
+- Acciones concretas y pequeñas que generan impacto rápido.
+- Ejemplo: Implementar sistema de compras en 1 semana.
+
+### Acompañamiento continuo
+- Apoyo durante el proceso de cambio, no solo entrega de informes.
+- Ejemplo: Retainer Mensual con revisión mensual.
+
+## DOCUMENTO VIVO
+Revisar trimestralmente o cuando haya cambios significativos. Actúa como el núcleo del plan de negocio.

@@ -1,0 +1,130 @@
+# PROMPT PARA IMPLEMENTAR LA BIBLIA CORPORATIVA EN NOTION
+
+Actúa como un experto en Notion con experiencia en sistemas de gestión del conocimiento. Necesito que implementes una "Biblia Corporativa" para una consultoría gastronómica llamada Gastronom Ia I+.
+
+## CONTEXTO
+- Gastronom Ia I+ es una consultoría gastronómica y formativa
+- Se enfoca en PYMES gastronómicas y profesionales de la formación
+- Tiene una metodología propia basada en datos y experiencia real
+- El sistema debe ser práctico, usable y orientado a la acción
+
+## INSTRUCCIONES DETALLADAS
+
+### 1. ESTRUCTURA PRINCIPAL
+- Crea un espacio llamado "Gastronom Ia I+ - Biblia Corporativa" con icono 📚
+- Crea 17 páginas principales en el nivel raíz con estos nombres y emojis:
+  - 🧭 0. Guía de Uso y Escalado
+  - 🎯 1. Identidad de la Empresa
+  - 🧱 2. Modelo de Negocio
+  - 🛠️ 3. Productos y Servicios
+  - ⚙️ 4. Procesos Operativos
+  - 📢 5. Marketing y Comunicación
+  - 🏢 6. Gestión Interna
+  - 💰 7. Finanzas y Métricas
+  - ⚖️ 8. Legal, Ética y Cumplimiento
+  - 🔮 9. Innovación y Futuro
+  - 🤔 10. Sistema de Toma de Decisiones
+  - 🧘 11. Sostenibilidad Personal
+  - 📚 12. Casos, Testimonios y Evidencias Reales
+  - 📝 13. Matriz Visibilidad Contenido
+  - 🚀 14. Escalado, Roles y Delegación
+  - 💼 15. Sistema Comercial Mínimo
+  - 🤝 16. Comunidad, Referidos y Alianzas
+
+### 2. CONTENIDO DE PÁGINAS
+Para cada página, usa el contenido proporcionado a continuación. Copia y pega el contenido manteniendo la estructura de encabezados y listas.
+
+[Pega aquí el contenido completo de los documentos .docx proporcionados en la Sección 1]
+
+### 3. BASES DE DATOS
+Crea estas bases de datos:
+
+#### a) Base de Datos: Casos (en página 12)
+- Campos:
+  - `Nombre` (Título)
+  - `Cliente/Contexto` (Texto)
+  - `Situación inicial` (Texto)
+  - `Problema clave identificado` (Texto)
+  - `Intervención` (Texto)
+  - `Herramientas utilizadas` (Texto)
+  - `Resultado` (Texto)
+  - `Aprendizaje clave` (Texto)
+  - `Fecha` (Fecha)
+  - `Estado` (Selección: "Borrador", "Validado", "Publicado")
+
+#### b) Base de Datos: Roles (en página 14)
+- Campos:
+  - `Nombre del Rol` (Título)
+  - `Objetivo principal` (Texto)
+  - `¿Delegable?` (Checkbox)
+  - `Nivel de supervisión` (Texto)
+  - `Ejemplo de tarea` (Texto)
+
+#### c) Base de Datos: CRM (en página 15)
+- Campos:
+  - `Nombre` (Título)
+  - `Negocio / Perfil` (Texto)
+  - `Estado` (Selección: "Lead frío", "Interesada", "Propuesta enviada", "En negociación", "Cerrado - Ganado", "Cerrado - Perdido")
+  - `Último contacto` (Fecha)
+  - `Próximo paso` (Texto)
+  - `Notas clave` (Texto)
+
+#### d) Base de Datos: Matriz de Contenido (en página 13)
+- Campos:
+  - `Tipo de Contenido` (Título)
+  - `Canal Principal` (Texto)
+  - `Frecuencia` (Texto)
+  - `Objetivo` (Texto)
+  - `KPIs` (Texto)
+
+### 4. CONFIGURACIÓN AVANZADA
+
+#### a) Vistas en bases de datos
+- En "Casos": crea vistas para cada estado (Borrador, Validado, Publicado)
+- En "CRM": crea vistas para cada estado de lead
+- En "Matriz de Contenido": crea vista de calendario para programar contenido
+
+#### b) Plantillas
+- En "Casos": crea plantilla "Nuevo Caso" con estructura predefinida
+- En "CRM": crea plantilla "Nuevo Lead" con checklist de acciones iniciales
+
+#### c) Enlaces entre páginas
+- En "2. Modelo de Negocio", enlaza a "3. Productos y Servicios" y "4. Procesos Operativos"
+- En "10. Sistema de Toma de Decisiones", enlaza a todas las demás páginas
+- En "15. Sistema Comercial Mínimo", enlaza a "10. Sistema de Toma de Decisiones" para validación de proyectos
+
+#### d) Recordatorios
+- Configura recordatorios para revisiones:
+  - Mensual: primer lunes de cada mes
+  - Trimestral: primer lunes de enero, abril, julio, octubre
+  - Anual: primer lunes de enero
+
+#### e) Integración de hojas de cálculo
+- Convierte estos archivos Excel a bases de datos en Notion:
+  - CRM_Básico_Gastronom.xlsx → Base de datos CRM
+  - Calculadora_VCOR.xlsx → Base de datos Finanzas
+  - Tablero_Financiero_Mensual.xlsx → Base de datos Finanzas
+- Para cada fórmula en Excel, crea una fórmula equivalente en Notion
+
+#### f) Automatizaciones
+- Configura automatizaciones básicas:
+  - Cuando se crea un caso en estado "Validado", notificar por correo
+  - Cuando un lead pasa a "Cerrado - Ganado", crear automáticamente un proyecto
+  - Recordatorio semanal para revisión de Sistema 10 y Sostenibilidad Personal
+
+### 5. REQUISITOS DE DISEÑO
+- Usa una paleta de colores profesional y coherente
+- Mantén una jerarquía visual clara con encabezados y espaciado
+- Usa iconos relevantes para cada sección
+- Asegura que todo sea fácil de navegar y usar diariamente
+- Prioriza la funcionalidad sobre la estética
+
+### 6. VALIDACIÓN FINAL
+Antes de entregar el sistema, verifica que:
+- Todas las páginas tienen contenido completo
+- Todas las bases de datos están correctamente configuradas
+- Los enlaces entre páginas funcionan
+- Las automatizaciones están configuradas
+- El sistema es intuitivo de usar para alguien que lo abre por primera vez
+
+Por favor, implementa este sistema exactamente como se describe, manteniendo toda la estructura y contenido proporcionado. El resultado debe ser un sistema operativo completo y funcional para Gastronom Ia I+ que pueda usarse desde el primer día.

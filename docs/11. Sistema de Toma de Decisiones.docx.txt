@@ -1,0 +1,84 @@
+# 10. SISTEMA DE TOMA DE DECISIONES
+
+## PRINCIPIOS RECTORES
+
+- **Prioriza lo que genera valor real ahora.**
+- **No todo lo posible es necesario.**
+- **La energía es un recurso limitado: protégela.**
+- **Haz foco: lo importante antes que lo elegante.**
+- **Mejor acción imperfecta que planificación infinita.**
+
+## PROTOCOLO DE DECISIÓN (USAR SIEMPRE)
+
+### Paso 1: Evaluar con criterios de priorización
+**✅ SÍ HACER si cumple al menos 5 de estas 7 condiciones:**
+1. Resuelve un problema actual de un cliente real.
+2. Puede ejecutarse en menos de 10 días o en sprints.
+3. Tiene entregable o resultado medible.
+4. Usa herramientas ya disponibles o conocidas.
+5. Se puede documentar y reutilizar.
+6. Está alineado con mi visión y posicionamiento.
+7. No me drena energía ni compete con algo más prioritario.
+
+**⛔ NO HACER (o posponer) si:**
+1. Solo responde a una moda, hype o comparación externa.
+2. Es demasiado costoso (en tiempo, dinero, energía) sin retorno claro.
+3. No lo pide nadie más que mi ego o miedo a quedarme atrás.
+
+### Paso 2: Aplicar Matriz Decisión Ágil
+| | Importante |
+|----------------|------------|
+| **Urgente** | ACCIÓN INMEDIATA |
+| **No urgente** | AGENDAR Y PLANIFICAR |
+| | **No importante** |
+| **Urgente** | DELEGAR O AUTOMATIZAR |
+| **No urgente** | ELIMINAR / IGNORAR |
+
+### Paso 3: Evaluar impacto energético
+- **Bajo impacto energético:** Proceder
+- **Medio impacto energético:** Evaluar si hay espacio en el calendario
+- **Alto impacto energético:** Solo si hay valor estratégico muy alto
+
+## GESTIÓN DE PROYECTOS Y TAREAS
+
+### Revisión mensual (Primer lunes)
+1. Revisar "top 3 de tareas estratégicas activas"
+2. Eliminar tareas que lleven >6 semanas sin avances
+3. Priorizar basado en valor real y energía disponible
+4. Documentar 1 aprendizaje clave
+
+### Sistema de gestión diaria
+1. **Mañana:** Revisar Sistema 10 y definir 1-3 tareas clave del día
+2. **Mediodía:** Verificar avance y ajustar si es necesario
+3. **Noche:** Documentar aprendizajes y planificar día siguiente
+
+### Protocolo de incorporación de nuevas ideas
+1. Anotar la idea en "Ideas pendientes"
+2. Evaluar con Sistema 10 al final de la semana
+3. Si cumple criterios, incorporar al plan semanal
+4. Si no cumple, archivar o posponer
+
+## EJEMPLOS PRÁCTICOS
+
+### Ejemplo 1: Nueva colaboración
+- **Situación:** Un diseñador ofrece colaborar en creación de infografías
+- **Evaluación:**
+  - Resuelve problema real: Sí (mejora calidad de entregables)
+  - Ejecutable en <10 días: Sí
+  - Resultado medible: Sí (más engagement en redes)
+  - Usa herramientas conocidas: Sí (Canva)
+  - Se puede documentar: Sí
+  - Alineado con visión: Sí
+  - Impacto energético: Bajo
+- **Decisión:** ✅ SÍ HACER
+
+### Ejemplo 2: Nuevo servicio
+- **Situación:** Ofrecer consultoría de IA para restaurantes
+- **Evaluación:**
+  - Responde a hype: Sí
+  - Costoso sin retorno claro: Sí
+  - Solo lo pide mi ego: Parcialmente
+- **Decisión:** ⛔ NO HACER (por ahora)
+
+## DOCUMENTO VIVO
+Este sistema se usa para TODA decisión importante. Se revisa mensualmente para ajustar criterios.

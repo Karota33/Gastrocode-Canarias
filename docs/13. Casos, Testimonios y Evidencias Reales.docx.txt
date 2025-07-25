@@ -1,0 +1,106 @@
+# 12. CASOS, TESTIMONIOS Y EVIDENCIAS REALES
+
+## OBJETIVO DEL BLOQUE
+
+- **Reforzar autoridad y credibilidad técnica** ante clientes potenciales
+- **Generar contenido de marketing basado en la verdad**
+- **Extraer aprendizajes para mejora continua** del modelo de negocio
+- **Crear productos derivados** (estudios de caso, webinars, artículos)
+
+## ESTRUCTURA TIPO PARA UN CASO DE ÉXITO
+
+### 1. Cliente/Contexto
+- **Nombre:** (Anónimo o con permiso)
+- **Tipo de negocio:** Bares, cafeterías, restaurantes, formadores
+- **Tamaño:** Número de empleados, facturación aproximada
+- **Situación inicial:** Breve descripción del estado antes de la intervención
+
+### 2. Problema clave identificado
+- **Fuga de margen/ineficiencia:** Cuantificada si es posible
+- **Frustración principal:** Del cliente o equipo
+- **Impacto en negocio:** En términos de tiempo, dinero, energía
+
+### 3. Intervención
+- **Servicio(s) prestado(s):** Diagnóstico, Plan de Acción, Implantación
+- **Duración:** Tiempo total del proyecto
+- **Metodología:** Enfoque específico usado
+
+### 4. Herramientas utilizadas
+- **VCOR®:** Para validación de márgenes
+- **Plantillas Notion:** Para organización y seguimiento
+- **Checklist auditoría:** Para diagnóstico inicial
+- **Otras herramientas específicas**
+
+### 5. Resultado
+- **Cuantificable:** Cambios medibles en números
+- **Cualitativo:** Testimonios del cliente
+- **Tiempo de implementación:** Cuándo se notaron los cambios
+
+### 6. Aprendizaje clave
+- **Para el cliente:** Qué cambió en su forma de trabajar
+- **Para Gastronom Ia I+:** Qué se aprendió para mejorar el sistema
+
+## CASOS RECOPILADOS (EJEMPLOS)
+
+### Caso 1: Reestructuración de Carta para Aumentar Rentabilidad
+- **Cliente/Contexto:** Cafetería familiar G0 en Las Palmas (2 empleados)
+- **Situación inicial:** Negocio operado por pareja sin escandallos, sin precios definidos por coste
+- **Problema clave:** Descontrol en compras y costes (Food Cost > 40%)
+- **Intervención:** Diagnóstico exprés + Plan de acción + Implantación parcial
+- **Herramientas:** Calendario compras, plantilla escandallos Excel, hoja de turnos
+- **Resultado:** 
+  - Reducción de compras un 22% en 1 mes
+  - Food Cost reducido del 40% al 28%
+  - Tiempos más ordenados, comunicación clara entre socios
+- **Aprendizaje:** 
+  - Pequeñas herramientas imprimibles generan paz mental inmediata
+  - El control de compras es el primer paso para la rentabilidad
+
+### Caso 2: Orden en la Docencia Gastronómica
+- **Cliente/Contexto:** Profesor de Formación Profesional en cocina
+- **Situación inicial:** Sobrecarga, materiales desorganizados, sin estructura clara
+- **Problema clave:** Frustración por falta de claridad, repetición de errores
+- **Intervención:** Mentoría individual 1:1 + rediseño de sistema didáctico
+- **Herramientas:** Mapa anual, plantillas Notion, carpeta base Drive
+- **Resultado:** 
+  - Orden personal en planificación
+  - Uso sostenible de materiales
+  - Menor desgaste emocional
+  - Alumnos más comprometidos
+- **Aprendizaje:** 
+  - Cuando el formador se ordena, los alumnos aprenden mejor
+  - La estructura didáctica reduce el tiempo de preparación en un 30%
+
+## PROTOCOLO DE DOCUMENTACIÓN
+
+### Paso 1: Al finalizar cada proyecto
+1. Solicitar permiso para usar el caso
+2. Recopilar datos cuantificables
+3. Documentar testimonios del cliente
+
+### Paso 2: Crear ficha de caso
+1. Usar estructura tipo definida
+2. Incluir fotos (con permiso) o gráficos
+3. Destacar 1-2 aprendizajes clave
+
+### Paso 3: Usar en marketing
+1. Adaptar para redes sociales (anónimo)
+2. Usar extractos en propuestas comerciales
+3. Crear artículos de autoridad basados en casos
+
+## CRITERIOS PARA INCLUIR UN CASO
+
+### Impacto medible o testimonio claro
+- Debe haber un resultado tangible o feedback significativo
+- Ejemplo: "Este cambio aumentó mi margen bruto del 32% al 41%"
+
+### Aprendizaje replicable
+- El caso debe aportar un insight útil para futuros proyectos
+- Ejemplo: "Implementar sistema de compras redujo desperdicios en un 15%"
+
+### Permiso del cliente
+- Contar con permiso explícito para usar su caso
+- Documentar el permiso en carpeta del cliente
+
+## DOCUMENTO VIVO
+Cada caso nuevo relevante debe ser añadido y versionado con fechas, aprendizajes y resultados medibles.

@@ -1,0 +1,83 @@
+# 7. FINANZAS Y MÉTRICAS
+
+## PRINCIPIOS FINANCIEROS
+
+### Rentabilidad como base
+- Cada proyecto debe generar un margen bruto mínimo del 60%
+- Ejemplo: Diagnóstico Exprés 360° a 400€ → coste máximo 160€
+
+### Transparencia total
+- El cliente debe entender claramente el ROI esperado
+- Ejemplo: "Este diagnóstico identificará fugas que suman mínimo 800€/mes"
+
+### Gestión basada en datos
+- Uso de KPIs claros para tomar decisiones financieras
+- Ejemplo: "Si el margen bruto < 60%, revisamos el proceso"
+
+### Simplicidad operativa
+- Preferir estructuras y herramientas financieras simples
+- Ejemplo: Tablero Financiero Mensual en Sheets (ver Sección 3)
+
+## KPIs FINANCIEROS CLAVE
+
+### Para seguimiento interno
+| KPI | Fórmula | Objetivo | Frecuencia |
+|-----|---------|----------|------------|
+| Margen bruto proyectos | Ingresos - Costes directos | >60% | Mensual |
+| Tasa conversión leads | Leads convertidos / Total leads | >25% | Mensual |
+| Tiempo medio por proyecto | Horas invertidas / Proyectos | <40h | Mensual |
+| Ingresos por hora | Ingresos / Horas trabajadas | >35€/h | Mensual |
+| Satisfacción cliente | Media encuestas | >8/10 | Por proyecto |
+
+### Para seguimiento con clientes
+| KPI | Fórmula | Objetivo | Frecuencia |
+|-----|---------|----------|------------|
+| Prime Cost % | (Alimentos + Bebidas + MO Directa) / Ventas | <65% | Mensual |
+| Food Cost % | Coste alimentos / Ventas alimentos | <28% | Mensual |
+| Rotación inventario | Coste ventas / Inventario promedio | >12 | Mensual |
+| Ticket medio | Ventas totales / Nº comensales | +5% anual | Mensual |
+| NPS | % Promotores - % Detractores | >30 | Trimestral |
+
+## SISTEMA DE SEGUIMIENTO MENSUAL
+
+### Paso 1: Recopilación de datos (Último día hábil)
+1. Ingresos del mes
+2. Costes directos del mes
+3. Horas invertidas en proyectos
+4. Leads recibidos y convertidos
+5. Satisfacción cliente (encuestas)
+
+### Paso 2: Análisis (Primer lunes del mes)
+1. Calcular KPIs internos
+2. Comparar con objetivos
+3. Identificar 1-2 áreas de mejora
+4. Documentar aprendizajes
+
+### Paso 3: Acción (Primer martes del mes)
+1. Implementar 1 mejora identificada
+2. Comunicar resultados al equipo (si aplica)
+3. Ajustar planificación mensual
+
+## TARIFA MÍNIMA ACEPTABLE (TMA)
+
+| Servicio | Tiempo estimado | TMA/hora (€) | Precio base mínimo (€) |
+|----------|-----------------|--------------|------------------------|
+| Diagnóstico Exprés | 6 h | 30 € | 180 € |
+| Plan de Acción | 4 h | 30 € | 120 € |
+| Implantación Operativa | 15 h promedio | 30 € | 450 € |
+| Mentoría individual | 3 sesiones | 40 € | 150 € |
+
+**Regla de oro:** Si un proyecto no cubre la TMA, no se acepta (excepto si hay valor estratégico muy alto).
+
+## TABLERO FINANCIERO MENSUAL
+
+[Ver plantilla en Sección 3: Tablero_Financiero_Mensual.xlsx]
+
+### Estructura:
+1. **Resumen ejecutivo:** Ingresos, costes, margen bruto
+2. **Análisis proyectos:** Por proyecto, horas, ingresos, margen
+3. **Proyección trimestral:** Basada en pipeline actual
+4. **Acciones clave:** 1-2 acciones para mejorar KPIs
+
+## DOCUMENTO VIVO
+Este documento se actualiza mensualmente con los datos reales del mes anterior.

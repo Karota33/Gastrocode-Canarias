@@ -1,0 +1,37 @@
+[ESTE ES UN FORMATO DE TEXTO QUE REPRESENTA UNA HOJA DE CÁLCULO]
+
+Hoja 1: Leads
+
+| Nombre | Negocio/Perfil | Fuente | Estado | Último contacto | Próximo paso | Notas clave | Valoración |
+|--------|----------------|--------|--------|-----------------|--------------|-------------|------------|
+| Marta | Cafetería G0 | Instagram | Interesada | 2023-07-03 | Enviar propuesta | Fuga en compras, necesita orden | 8/10 |
+| Diego | Formador FP | LinkedIn | Lead frío | 2023-06-28 | No seguir ahora | Solo curioseo, sin problema claro | 3/10 |
+| Ana | Restaurante familiar | Referido | En propuesta | 2023-07-05 | Esperar respuesta | Problema en menú, margen bajo | 9/10 |
+| Luis | Cocina virtual | Web | Contacto inicial | 2023-07-10 | Programar mini diagnóstico | Busca estructura operativa | 7/10 |
+
+* Estado: Lead frío, Interesada, En propuesta, Cerrado - Ganado, Cerrado - Perdido
+* Valoración: 1-10 (10 = máximo potencial)
+
+Hoja 2: Seguimiento
+
+| Fecha | Nombre | Acción | Resultado | Próximo paso | Recordatorio |
+|--------|--------|--------|-----------|--------------|-------------|
+| 2023-07-04 | Marta | Enviada propuesta Diagnóstico | Esperando respuesta | Llamar el 10/07 | 2023-07-10 |
+| 2023-07-06 | Ana | Reunión diagnóstico | Aceptado Diagnóstico | Programar inicio | 2023-07-15 |
+| 2023-07-11 | Luis | Mini diagnóstico | Necesita Plan de Acción | Enviar propuesta | 2023-07-13 |
+
+Hoja 3: Pipeline
+
+| Mes | Leads recibidos | Leads cualificados | Propuestas enviadas | Proyectos cerrados | Ingresos proyectados |
+|-----|-----------------|--------------------|---------------------|--------------------|----------------------|
+| Julio | 15 | 8 | 5 | 3 | 1,150 € |
+| Agosto | - | - | - | - | - |
+| Septiembre | - | - | - | - | - |
+
+Hoja 4: Checklist Sistema Comercial
+
+[ ] Contacto inicial en 24-48h
+[ ] Mini diagnóstico programado
+[ ] Propuesta personalizada enviada
+[ ] Seguimiento programado
+[ ] CRM actualizado

@@ -1,0 +1,89 @@
+# 15. SISTEMA COMERCIAL MÍNIMO
+
+## OBJETIVO
+
+Definir un proceso de captación y preventa simple, replicable y efectivo, alineado con los valores de "Claridad" y "Acción práctica".
+
+## SISTEMA DE CAPTACIÓN
+
+### Fase 1 — Contacto inicial (24-48 horas)
+- **Acción:** Responder a consultas en WhatsApp/email/red social
+- **Mensaje tipo:** 
+  "Gracias por escribir. Para ayudarte bien, necesito saber 3 cosas:
+  1. ¿Cuál es el mayor problema que estás teniendo ahora?
+  2. ¿Qué tipo de negocio tienes y quién lo gestiona?
+  3. ¿Qué has probado hasta ahora para resolverlo?"
+- **Herramienta:** [Ver plantilla en Sección 3: Formulario_Contacto_Inicial.docx]
+
+### Fase 2 — Mini diagnóstico gratuito (30 minutos)
+- **Objetivo:** Evaluar encaje y generar confianza
+- **Guion base:**
+  1. ¿Qué está pasando ahora en tu negocio?
+  2. ¿Qué impacto te está generando?
+  3. ¿Qué has intentado ya para resolverlo?
+  4. ¿Qué crees que te falta?
+  5. ¿Qué querrías conseguir en los próximos 3 meses?
+- **Final:** "Según lo que me cuentas, esto es lo que te propondría..."
+- **Herramienta:** Checklist Mini Diagnóstico (ver Sección 3)
+
+### Fase 3 — Propuesta formal (48 horas)
+- **Formato:** PDF o página de Notion clara y concisa
+- **Elementos:**
+  - Nombre del servicio y objetivo principal
+  - Qué incluye (breve y visual, con iconos)
+  - Entregables claros y concretos
+  - Precio cerrado o rango claro
+  - Condiciones (forma de pago, duración, revisiones)
+  - Diferenciadores clave
+  - Llamada a la acción clara (CTA)
+- **Reforzar utilidad:** "No es para todo el mundo. Pero si estás listo, lo hacemos bien."
+- **Cierre sin presión:** 
+  - "¿Te encaja?"
+  - "¿Quieres que empecemos esta semana?"
+- **Herramienta:** [Ver plantilla en Sección 3: Plantilla_Propuesta_Comercial.docx]
+
+### Fase 4 — Seguimiento
+- **Acción:** Establecer expectativas claras de respuesta
+- **Ejemplo:** "Te escribo el viernes con una propuesta"
+- **Seguimiento:** Respetuoso y con valor añadido
+- **Regla:** Primer contacto en 24–48 h
+
+## TARIFA MÍNIMA ACEPTABLE (TMA)
+
+| Servicio | Tiempo estimado | TMA/hora (€) | Precio base mínimo (€) |
+|----------|-----------------|--------------|------------------------|
+| Diagnóstico Exprés | 6 h | 30 € | 180 € |
+| Plan de Acción | 4 h | 30 € | 120 € |
+| Implantación Operativa | 15 h promedio | 30 € | 450 € |
+| Mentoría individual | 3 sesiones | 40 € | 150 € |
+
+**Regla de oro:** Si un proyecto no cubre la TMA, no se acepta (excepto si hay valor estratégico muy alto).
+
+## CRM BÁSICO
+
+| Nombre | Negocio / Perfil | Estado | Último contacto | Próximo paso | Notas clave |
+|--------|------------------|--------|-----------------|--------------|-------------|
+| Marta | Cafetería G0 | Interesada | 3 julio | Enviar propuesta | Fuga en compras |
+| Diego | Formador FP | Lead frío | 28 junio | No seguir ahora | Solo curioseo |
+
+**Regla:** El objetivo no es escalar mil leads, sino hacer seguimiento útil de pocos buenos casos.
+
+## SISTEMA DE IMPLEMENTACIÓN INMEDIATA
+
+### Paso 1: Configuración (1 hora)
+1. Crea carpeta "CRM" en Google Drive
+2. Descarga e instala [Ver plantilla en Sección 3: CRM_Básico_Gastronom.xlsx]
+3. Configura sistema de recordatorios para seguimiento
+
+### Paso 2: Proceso diario (15 minutos)
+1. Revisa tu CRM cada mañana
+2. Identifica 1-2 leads para contactar
+3. Programa seguimiento en calendario
+
+### Paso 3: Sistema de propuestas (por proyecto)
+1. Usa plantilla de propuesta comercial
+2. Personaliza para cada cliente
+3. Sigue protocolo de envío y seguimiento
+
+## DOCUMENTO VIVO
+Este sistema se ajusta según los resultados de las ventas y el feedback de los clientes potenciales.

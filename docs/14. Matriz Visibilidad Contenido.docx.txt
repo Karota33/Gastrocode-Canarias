@@ -1,0 +1,87 @@
+# 13. MATRIZ VISIBILIDAD CONTENIDO
+
+## OBJETIVO
+
+Definir y gestionar una estrategia de contenido coherente y escalable que genere visibilidad, autoridad y leads cualificados, alineada con la identidad y propuesta de valor.
+
+## CANALES DE VISIBILIDAD
+
+### Blog/Web
+- **Propósito:** Artículos de autoridad basados en casos reales
+- **Frecuencia:** 1-2 por mes
+- **Contenido ideal:** Casos de éxito, análisis de tendencias, guías prácticas
+- **Herramienta:** WordPress o Substack
+
+### LinkedIn
+- **Propósito:** Insights técnicos, reflexiones profesionales, casos de éxito
+- **Frecuencia:** 2-3 veces por semana
+- **Contenido ideal:** Análisis de KPIs, consejos prácticos, testimonios
+- **Herramienta:** LinkedIn + Canva para gráficos
+
+### Instagram
+- **Propósito:** Visualización de procesos, resultados, cultura
+- **Frecuencia:** 3-4 veces por semana
+- **Contenido ideal:** Behind the scenes, infografías, testimonios
+- **Herramienta:** Instagram + Canva
+
+### Newsletter/Substack
+- **Propósito:** Comunicación directa con comunidad interesada
+- **Frecuencia:** 1 vez por semana
+- **Contenido ideal:** Contenido exclusivo, avances, reflexiones
+- **Herramienta:** Substack
+
+### Repositorio de Casos (12)
+- **Propósito:** Base de contenido para artículos, reels, posts
+- **Frecuencia:** Continuo
+- **Contenido ideal:** Casos anonimizados, aprendizajes clave
+- **Herramienta:** Notion o Google Docs
+
+## MATRIZ DE CONTENIDO
+
+| Tipo de Contenido | Canal Principal | Frecuencia | Objetivo | KPIs |
+|--------------------|-----------------|------------|----------|------|
+| Artículo de Caso de Éxito | Blog, LinkedIn | 1/2 por mes | Demostrar resultados, generar leads | Visitas, Leads |
+| Insight Técnico (KPI, Herramienta) | LinkedIn, IG | 2-3 por semana | Posicionamiento como experto | Alcance, Interacciones |
+| Contenido de Valor (Guía, Checklist) | IG, Newsletter | 1 por semana | Nutrir comunidad | Descargas, Suscripciones |
+| Behind the Scenes | IG Stories, Newsletter | Ocasional | Humanizar marca | Interacciones |
+| Reflexión/Opinión | LinkedIn, Newsletter | 1 por semana | Generar debate | Interacciones, Comentarios |
+
+## CALENDARIO EDITORIAL MENSUAL
+
+### Paso 1: Planificación (Último viernes del mes)
+1. Identificar 4 temas clave para el mes
+2. Asignar canales y formatos
+3. Programar publicaciones en herramienta de scheduling
+
+### Paso 2: Creación (Semana a semana)
+1. Lunes: Crear 1 insight técnico
+2. Miércoles: Crear 1 contenido de valor
+3. Viernes: Crear 1 artículo de caso o reflexión
+
+### Paso 3: Análisis (Primer lunes del mes)
+1. Revisar métricas de cada publicación
+2. Identificar contenido más efectivo
+3. Ajustar planificación para el mes siguiente
+
+## SISTEMA DE IMPLEMENTACIÓN INMEDIATA
+
+### Paso 1: Configuración (1 hora)
+1. Crear cuentas en LinkedIn, Instagram, Substack
+2. Descargar plantilla Calendario Editorial (ver Sección 3)
+3. Crear carpeta "Contenido" en Google Drive
+
+### Paso 2: Contenido semanal (3-5 horas)
+1. Lunes: Planificar contenido semana
+2. Martes: Crear 1 insight técnico
+3. Miércoles: Crear 1 contenido de valor
+4. Jueves: Grabar 1 behind the scenes
+5. Viernes: Analizar métricas y ajustar
+
+### Paso 3: Sistema de referidos (continuo)
+1. Al finalizar cada proyecto, pregunta:
+   "¿Conoces a alguien más que necesite esto?"
+2. Ofrece incentivo simbólico (ej: sesión extra)
+3. Registra quién refirió a quién
+
+## DOCUMENTO VIVO
+Revisar mensualmente y ajustar basado en métricas reales.

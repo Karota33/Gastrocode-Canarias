@@ -1,0 +1,106 @@
+# 4. PROCESOS OPERATIVOS
+
+## FLUJO DE TRABAJO POR PROYECTO
+
+### 1. Contacto inicial (24-48 horas)
+- **Acción:** Responder a consultas en WhatsApp/email/DM
+- **Herramientas:** Formulario de contacto (ver Sección 3)
+- **Entregable:** Confirmación de recepción + enlace a formulario breve
+
+### 2. Mini diagnóstico gratuito (30 minutos)
+- **Acción:** Llamada para evaluar encaje y generar confianza
+- **Guion base:**
+  1. ¿Qué está pasando ahora en tu negocio/formación?
+  2. ¿Qué impacto te está generando?
+  3. ¿Qué has intentado ya para resolverlo?
+  4. ¿Qué crees que te falta?
+  5. ¿Qué querrías conseguir en los próximos 3 meses?
+- **Herramientas:** Grabación (con permiso), notas estructuradas
+- **Entregable:** Resumen de necesidades y encaje
+
+### 3. Propuesta formal (48 horas)
+- **Acción:** Enviar propuesta personalizada
+- **Elementos:**
+  - Nombre del servicio y objetivo principal
+  - Qué incluye (breve y visual)
+  - Entregables claros y concretos
+  - Precio cerrado o rango claro
+  - Condiciones (forma de pago, duración, revisiones)
+  - Diferenciadores clave
+  - Llamada a la acción clara (CTA)
+- **Herramientas:** Plantilla propuesta (ver Sección 3)
+- **Entregable:** Documento PDF/Notion
+
+### 4. Inicio del proyecto
+- **Acción:** Formalizar acuerdo y comenzar
+- **Elementos:**
+  - Calendario compartido
+  - Carpeta en Drive con estructura predefinida
+  - Mapa de entregables y fechas clave
+- **Herramientas:** Google Calendar, Google Drive, Notion
+- **Entregable:** Carpeta organizada y calendario compartido
+
+### 5. Ejecución por bloques
+- **Acción:** Implementar 1 entrega = 1 mejora
+- **Elementos:**
+  - Entregas semanales con feedback inmediato
+  - Revisión compartida de avances
+  - Ajustes en tiempo real
+- **Herramientas:** Checklist de acción, Action-Log
+- **Entregable:** Documentación de cada mejora implementada
+
+### 6. Cierre y evaluación
+- **Acción:** Formalizar finalización y plan de seguimiento
+- **Elementos:**
+  - Hoja resumen de lo implementado
+  - Checklist de cierre
+  - Siguientes pasos opcionales
+  - Evaluación del cliente
+- **Herramientas:** Checklist de cierre, formulario de evaluación
+- **Entregable:** Informe de cierre y plan de seguimiento
+
+## HERRAMIENTAS TECNOLÓGICAS
+
+| Herramienta | Uso | Frecuencia | Importancia |
+|-------------|-----|------------|-------------|
+| Google Drive | Almacenamiento centralizado | Diario | Máxima |
+| Notion | Base de conocimiento, planificación | Diario | Máxima |
+| Canva | Creación rápida de gráficos | Semanal | Alta |
+| Sheets/Excel | Procesamiento de datos financieros | Semanal | Alta |
+| Correo electrónico | Comunicación formal | Diario | Alta |
+| WhatsApp Business | Comunicación ágil | Diario | Media |
+| ClickUp | Gestión de tareas | Semanal | Media |
+| Make/Zapier | Automatización básica | Mensual | Baja |
+
+## PRINCIPIOS DE CALIDAD
+
+### Utilidad
+- ¿Resuelve un problema concreto del cliente?
+- Ejemplo: "Este sistema reduce tus compras un 20%"
+
+### Aplicabilidad
+- ¿Es ejecutable con los recursos del cliente?
+- Ejemplo: "Usa tu TPV actual, no requiere nuevo software"
+
+### Comprensión
+- ¿Está escrito de forma clara, sin jerga?
+- Ejemplo: "En lugar de 'optimización de ROI', decimos 'aumentar tus ganancias'"
+
+## SISTEMA DE MEJORA CONTINUA
+
+### Test de uso
+- Cada nueva herramienta se prueba con 1-2 clientes reales antes de escalar.
+- Ejemplo: La Calculadora VCOR® se probó en 3 cafeterías antes de su lanzamiento.
+
+### Revisión semanal
+- Cada viernes, revisar:
+  - Qué funcionó bien esta semana
+  - Qué no funcionó y por qué
+  - 1 mejora para la próxima semana
+
+### Documentación obligatoria
+- Todo aprendizaje, error y éxito se documenta en Notion.
+- Ejemplo: "Error: El cliente no entendió X. Solución: Añadir explicación en Y".
+
+## DOCUMENTO VIVO
+Este documento se actualiza cada vez que se identifica una mejora en los procesos.

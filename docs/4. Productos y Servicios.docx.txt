@@ -1,0 +1,161 @@
+# 3. PRODUCTOS Y SERVICIOS
+
+## CATÁLOGO ACTUAL
+
+### 🧽 Diagnóstico Exprés 360°
+**Objetivo:** Obtener una visión clara, rápida y basada en datos del estado actual del negocio para identificar las 3-5 principales áreas de fuga de margen o ineficiencia.
+
+**Duración:** 2-3 semanas.
+
+**Metodología:**
+1. Solicitud de documentación previa (excel ventas, facturas)
+2. Visita 1: observación en servicio + check-list 90 ítems
+3. Procesado datos TPV + escandallos
+4. Encuestas clientes (online/QR)
+5. Entrevistas 1-a-1 con chef, encargado y 2 camareros
+6. Visita 2: verificación de procesos cocina/sala
+7. Síntesis y jerarquización de fugas (matriz impacto-esfuerzo)
+
+**Herramientas:**
+- Datos del TPV, inventario, encuestas, observación
+- Calculadora VCOR® (ver Sección 3)
+- Checklist auditoría 90 ítems (ver Sección 3)
+
+**Entregables:**
+- Informe detallado con hallazgos y análisis de datos
+- Identificación de al menos 3 fugas de margen superiores al 5%
+- Plan de Acción Priorizado con 5-7 puntos clave
+
+**Criterios de Éxito:**
+- 100% de los datos solicitados entregados por el cliente
+- Identificación de al menos 3 fugas de margen > 5% cada una
+- Aceptación del informe por parte del cliente (feedback ≥ 8/10)
+
+**Nota:** Punto de entrada obligatorio para cualquier otro servicio. Sin diagnóstico, no hay base para intervención.
+
+### 🪄 Plan de Acción Priorizado
+**Objetivo:** Convertir los hallazgos del Diagnóstico 360° en un plan ejecutable, priorizado y medible.
+
+**Duración:** 1 semana.
+
+**Metodología:**
+- Análisis del informe del Diagnóstico
+- Aplicación de Matriz de Impacto-Esfuerzo
+- Definición de 5-7 acciones clave con indicadores de éxito
+
+**Herramientas:**
+- Notion, hojas de cálculo, metodología VCOR®
+- Plantilla Plan de Acción (ver Sección 3)
+
+**Entregables:**
+- Documento editable (PDF/Notion) con el Plan de Acción
+- Checklist de acciones inmediatas (A4)
+- Reunión de 60 min para presentar conclusiones y acordar el plan
+
+### ⚙️ Implantación Operativa
+**Objetivo:** Apoyar en la ejecución concreta de las acciones prioritarias del Plan de Acción.
+
+**Duración:** Variable, típicamente 2-4 semanas.
+
+**Metodología:**
+- Acompañamiento práctico, formación *in-situ* y ajustes iterativos
+- Seguimiento semanal de avances
+
+**Herramientas:**
+- Checklists, plantillas Notion, guías de proceso
+- Plantilla Action-Log (ver Sección 3)
+
+**Entregables:**
+- Implementación de las acciones acordadas
+- Documentación de los nuevos procesos
+- Checklist de cierre
+
+### 🧠 Formación Práctica por Bloques
+**Objetivo:** Transferir conocimientos y habilidades específicas de forma práctica y aplicada.
+
+**Duración:** Sesiones puntuales o programas cortos (1-5 sesiones).
+
+**Temas clave:**
+- Gestión de inventarios y escandallos
+- Análisis de datos del TPV
+- Uso de Notion para gestión operativa
+- Sistemas de control de costes
+
+**Herramientas:**
+- Presentaciones, plantillas, ejercicios prácticos
+- Plantillas de escandallo (ver Sección 3)
+
+**Entregables:**
+- Sesión(es) de formación
+- Materiales de apoyo descargables
+
+### 🪴 Retainer Mensual
+**Objetivo:** Acompañamiento continuo y sostenible para mantener el impulso de mejora.
+
+**Duración:** Mensual, renovable.
+
+**Metodología:**
+- 1 visita o videollamada al mes
+- Revisión de métricas clave
+- Ajustes operativos
+
+**Herramientas:**
+- Dashboards, checklists, Notion
+- Tablero Financiero Mensual (ver Sección 3)
+
+**Entregables:**
+- Informe breve mensual
+- Tareas clave para el mes siguiente
+
+### 🧐 Mentoría Individual (Profesionales)
+**Objetivo:** Acompañamiento personalizado para resolver frustraciones y encontrar orden en el trabajo o negocio.
+
+**Duración:** 1 mes (3 sesiones 1:1 + plan de acción).
+
+**Metodología:**
+- Evaluación de contexto, organización, herramientas y plan personalizado
+- Aplicación de principios de sostenibilidad personal
+
+**Herramientas:**
+- Conversaciones guiadas, metodología de sostenibilidad personal
+- Mapa anual, plantillas Notion (ver Sección 3)
+
+**Entregables:**
+- Plan de acción editable
+- Recursos y herramientas específicas
+
+## MATRIZ DE SEGMENTOS VS. SERVICIOS
+
+| Servicio | Patrón A (Docentes) | Patrón B (Pymes) | Patrón C (Profesionales) |
+|----------|---------------------|------------------|--------------------------|
+| Diagnóstico Exprés 360° | ✅ | ✅ | ✅ |
+| Plan de Acción | ✅ | ✅ | ✅ |
+| Implantación Operativa | ✅ | ✅ | ✅ |
+| Formación Práctica | ✅ | ✅ | ✅ |
+| Retainer Mensual | ✅ | ✅ | ✅ |
+| Mentoría Individual | ✅ | ✅ | ✅ |
+
+## PRINCIPIOS DE DISEÑO DE SERVICIOS
+
+### Feedback real
+- Todos los servicios se diseñan con feedback de casos reales.
+- Ejemplo: El Diagnóstico 360° se ha refinado con 12 casos reales.
+
+### Reutilización
+- Cada entrega genera una plantilla o mejora del sistema.
+- Ejemplo: Cada Diagnóstico mejora la Calculadora VCOR®.
+
+### Testing
+- Se testean entregables con usuarios o colaboradores antes de escalar.
+- Ejemplo: Plantillas de escandallo probadas en 5 negocios.
+
+### Iterativo
+- El sistema AIOS y el enfoque VCOR® están en desarrollo iterativo.
+- Ejemplo: Versión 2.1 de la Calculadora VCOR® con nuevos KPIs.
+
+### Validación
+- Ciclos trimestrales de revisión (servicios, procesos, precios).
+- Ejemplo: Revisión de precios cada trimestre basada en costes reales.
+
+## DOCUMENTO VIVO
+Revisar trimestralmente según resultados y aprendizajes.

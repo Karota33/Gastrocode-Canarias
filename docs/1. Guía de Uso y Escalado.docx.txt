@@ -1,0 +1,80 @@
+# 0. GUÍA DE USO Y ESCALADO
+
+## ¿QUÉ ES ESTA "BIBLIA"?
+
+No es un dossier ni un manual rígido. Es tu **sistema nervioso central**, el sistema vivo que guía cada decisión, acción y relación de Gastronom Ia I+. Es tu mapa operativo, tu brújula estratégica y tu manual de escalado.
+
+## ¿PARA QUÉ SIRVE?
+
+- **Tomar decisiones:** Filtro obligatorio para evaluar nuevas ideas (usa el Sistema 10).
+- **Delegar con confianza:** Sistema claro para incorporar colaboradores (bloque 14).
+- **Rediseñar servicios:** Base para innovar y crear productos derivados (bloques 09, 12).
+- **Mantener el rumbo:** Anclaje en tu identidad y visión (bloque 01).
+- **Escalar sin perder esencia:** Sistema replicable (bloques 02, 03, 04).
+
+## CÓMO USARLA
+
+### Estructura de bloques
+| Bloque | Nombre | Frecuencia revisión | Prioridad |
+|--------|--------|---------------------|-----------|
+| 0 | Guía de Uso y Escalado | Mensual | Alta |
+| 1 | Identidad de la Empresa | Anual | Máxima |
+| 2 | Modelo de Negocio | Trimestral | Alta |
+| 3 | Productos y Servicios | Trimestral | Alta |
+| 4 | Procesos Operativos | Mensual | Máxima |
+| 5 | Marketing y Comunicación | Trimestral | Media |
+| 6 | Gestión Interna | Mensual | Alta |
+| 7 | Finanzas y Métricas | Mensual | Máxima |
+| 8 | Legal, Ética y Cumplimiento | Anual | Media |
+| 9 | Innovación y Futuro | Trimestral | Media |
+| 10 | Sistema de Toma de Decisiones | Mensual | Máxima |
+| 11 | Sostenibilidad Personal | Semanal | Máxima |
+| 12 | Casos, Testimonios y Evidencias | Continuo | Alta |
+| 13 | Matriz Visibilidad Contenido | Mensual | Media |
+| 14 | Escalado, Roles y Delegación | Trimestral | Media |
+| 15 | Sistema Comercial Mínimo | Mensual | Alta |
+| 16 | Comunidad, Referidos y Alianzas | Continuo | Media |
+
+### Protocolo de revisión
+- **Diariamente:** Revisar Sistema 10 y Sostenibilidad Personal (11).
+- **Semanalmente:** Revisar Gestión Interna (6), Finanzas (7) y Tareas clave.
+- **Mensualmente:** Revisar Marketing (5), Sistema Comercial (15) y Procesos (4).
+- **Trimestralmente:** Revisar Modelo de Negocio (2), Productos (3) e Innovación (9).
+- **Anualmente:** Revisar Identidad (1) y Legal (8).
+
+## SISTEMA DE IMPLEMENTACIÓN INMEDIATA
+
+### Paso 1: Configuración inicial (1 hora)
+1. Crea carpetas en Google Drive:
+   - `00_Biblia_Corporativa`
+   - `01_Clientes`
+   - `02_Marketing`
+   - `03_Finanzas`
+   - `04_Documentación`
+
+2. Descarga e instala estas plantillas (ver Sección 3):
+   - `CRM_Básico_Gastronom.xlsx`
+   - `Calculadora_VCOR.xlsx`
+   - `Tablero_Financiero_Mensual.xlsx`
+
+### Paso 2: Implementación diaria (5-10 minutos)
+1. Cada mañana, revisa tu Sistema 10 (documento 10) y responde:
+   - ¿Qué 1-3 tareas generarán valor REAL hoy?
+   - ¿Cómo protegeré mi energía hoy?
+
+2. Al final del día, actualiza tu Tablero Financiero y CRM.
+
+### Paso 3: Revisión semanal (30 minutos)
+1. Domingo por la tarde:
+   - Revisa tus métricas clave (documento 7)
+   - Planifica las 3 tareas estratégicas para la semana (documento 6)
+   - Evalúa tu energía y bienestar (documento 11)
+
+## ¡ESCRITO EN PIEDRA!
+
+- **NUNCA** aceptes un proyecto que no cubra la Tarifa Mínima Aceptable (documento 15).
+- **SIEMPRE** documenta cada decisión y aprendizaje en Notion o Google Docs.
+- **SOLO** escalas cuando los procesos estén documentados y funcionando sin ti.
+- **NUNCA** dejas de revisar tu Sistema 10 antes de tomar cualquier decisión.
+
+⚠️ **ESTE DOCUMENTO ES TU MAPA OPERATIVO. LÉELO CADA VEZ QUE PLANTÉES UN CAMBIO IMPORTANTE, UNA NUEVA COLABORACIÓN O UNA ETAPA DE CRECIMIENTO.**

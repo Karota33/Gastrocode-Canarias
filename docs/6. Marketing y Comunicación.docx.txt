@@ -1,0 +1,120 @@
+# 5. MARKETING Y COMUNICACIÓN
+
+## PROPUESTA DE VALOR DIFERENCIADORA (REFRENDADA)
+
+"Orden operativo real + acompañamiento + herramientas accesibles. Nada de humo. Todo aplicado."
+
+**Diferenciadores clave:**
+- Experiencia real en cocina, docencia y gestión
+- Especialización en el contexto canario y su cultura operativa
+- Metodología propia híbrida (VCOR®, AIOS, consultoría vivida)
+- Soluciones accesibles y acompañadas (sin dejar solos a los clientes)
+- Resultados medibles (ahorro, rentabilidad, control, paz mental)
+
+## SEGMENTOS OBJETIVO Y PROBLEMAS CLAVE
+
+### Patrón A: Docentes y Formadores
+- **Problema clave:** Falta de orden, materiales desorganizados, repetición de errores
+- **Necesidad:** Sistema didáctico estructurado y sostenible
+- **Ejemplo real:** Profesor de FP con materiales desordenados
+- **Solución:** Mentoría + rediseño sistema didáctico
+- **Resultados:** Orden personal, uso sostenible de materiales
+
+### Patrón B: PYMES Gastronómicas
+- **Problema clave:** Márgenes ajustados, estructura operativa débil
+- **Necesidad:** Sistema operativo claro y data-driven
+- **Ejemplo real:** Cafetería G0 sin escandallos definidos
+- **Solución:** Diagnóstico 360° + Plan de Acción
+- **Resultados:** Reducción de compras un 22% en 1 mes
+
+### Patrón C: Profesionales del Sector
+- **Problema clave:** Falta de herramientas digitales prácticas
+- **Necesidad:** Integración de tecnología accesible
+- **Ejemplo real:** Chef con TPV pero sin análisis de datos
+- **Solución:** Formación + dashboards personalizados
+- **Resultados:** Mayor control de costes y rentabilidad
+
+## TONO Y VOZ
+
+### Claro, sin jerga
+- **NO:** "Optimización de ROI en el ciclo de vida del cliente"
+- **SÍ:** "Aumentar tus ganancias con lo que ya tienes"
+
+### Con números
+- **NO:** "Mejoramos tu rentabilidad"
+- **SÍ:** "Este cambio aumentó tu margen bruto del 32% al 41% en 2 meses"
+
+### Honesto y directo
+- **NO:** "Esto resolverá todos tus problemas"
+- **SÍ:** "Este es el 1er paso para resolver X. Luego necesitarás Y"
+
+## PLAN TRIMESTRAL DE MARKETING
+
+### Q3 (Validación)
+- **Objetivo:** Testear canales, mensajes y formatos
+- **Acciones:**
+  - Publicar 4 casos reales (anonimizados)
+  - Testear 3 formatos de contenido (texto, video, infografía)
+  - Analizar engagement y conversiones
+- **KPI:** 5 leads cualificados
+
+### Q4 (Estandarización)
+- **Objetivo:** Definir estrategia ganadora
+- **Acciones:**
+  - Crear contenido base (plantillas, guías)
+  - Establecer calendario editorial
+  - Definir canales principales
+- **KPI:** 10 leads cualificados
+
+### Q1 (Escalado)
+- **Objetivo:** Aumentar ritmo de publicación
+- **Acciones:**
+  - Publicar 2x por semana
+  - Activar comunidad (encuentros micro)
+  - Implementar sistema de referidos
+- **KPI:** 15 leads cualificados
+
+### Q2 (Consolidación)
+- **Objetivo:** Medir ROI y preparar siguiente ciclo
+- **Acciones:**
+  - Analizar métricas de conversión
+  - Ajustar estrategia basado en datos
+  - Planificar próximos 4 trimestres
+- **KPI:** 20 leads cualificados
+
+## MATRIZ DE CONTENIDO
+
+| Tipo de Contenido | Canal Principal | Frecuencia | Objetivo | KPIs |
+|-------------------|-----------------|------------|----------|------|
+| Artículo de Caso de Éxito | Blog, LinkedIn | 1/2 por mes | Demostrar resultados | Visitas, Leads |
+| Insight Técnico (KPI, Herramienta) | LinkedIn, IG | 2-3 por semana | Posicionamiento como experto | Alcance, Interacciones |
+| Contenido de Valor (Guía, Checklist) | IG, Newsletter | 1 por semana | Nutrir comunidad | Descargas, Suscripciones |
+| Behind the Scenes | IG Stories, Newsletter | Ocasional | Humanizar marca | Interacciones |
+| Reflexión/Opinión | LinkedIn, Newsletter | 1 por semana | Generar debate | Interacciones, Comentarios |
+
+## SISTEMA DE IMPLEMENTACIÓN INMEDIATA
+
+### Paso 1: Configuración (1 hora)
+1. Crea cuentas en:
+   - LinkedIn (perfil profesional)
+   - Instagram (cuenta de negocio)
+   - Substack (newsletter)
+2. Descarga e instala:
+   - Plantilla Calendario Editorial (ver Sección 3)
+   - Checklist Contenido Mínimo Viable (ver Sección 3)
+
+### Paso 2: Contenido semanal (3-5 horas)
+1. Lunes: Planificar contenido semana
+2. Martes: Crear 1 insight técnico
+3. Miércoles: Crear 1 contenido de valor
+4. Jueves: Grabar 1 behind the scenes
+5. Viernes: Analizar métricas y ajustar
+
+### Paso 3: Sistema de referidos (continuo)
+1. Al finalizar cada proyecto, pregunta:
+   "¿Conoces a alguien más que necesite esto?"
+2. Ofrece incentivo simbólico (ej: sesión extra)
+3. Registra quién refirió a quién
+
+## DOCUMENTO VIVO
+Revisar mensualmente y ajustar basado en métricas reales.

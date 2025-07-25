@@ -1,0 +1,196 @@
+# INSTRUCCIONES PARA IMPLEMENTAR LA BIBLIA CORPORATIVA EN NOTION
+
+## PASO 1: CREAR ESPACIO PRINCIPAL
+
+1. Crea un nuevo espacio en Notion llamado "Gastronom Ia I+ - Biblia Corporativa"
+2. Configura el icono: 📚 (o cualquier icono que represente conocimiento)
+
+## PASO 2: CREAR PÁGINAS PRINCIPALES
+
+Crea estas 17 páginas en el nivel raíz del espacio:
+
+1. 🧭 0. Guía de Uso y Escalado
+2. 🎯 1. Identidad de la Empresa
+3. 🧱 2. Modelo de Negocio
+4. 🛠️ 3. Productos y Servicios
+5. ⚙️ 4. Procesos Operativos
+6. 📢 5. Marketing y Comunicación
+7. 🏢 6. Gestión Interna
+8. 💰 7. Finanzas y Métricas
+9. ⚖️ 8. Legal, Ética y Cumplimiento
+10. 🔮 9. Innovación y Futuro
+11. 🤔 10. Sistema de Toma de Decisiones
+12. 🧘 11. Sostenibilidad Personal
+13. 📚 12. Casos, Testimonios y Evidencias Reales
+14. 📝 13. Matriz Visibilidad Contenido
+15. 🚀 14. Escalado, Roles y Delegación
+16. 💼 15. Sistema Comercial Mínimo
+17. 🤝 16. Comunidad, Referidos y Alianzas
+
+## PASO 3: POBLAR CADA PÁGINA
+
+Para cada página, copia y pega el contenido correspondiente de los documentos .docx proporcionados en la Sección 1.
+
+Ejemplo para "1. Identidad de la Empresa":
+
+1. Abre la página "1. Identidad de la Empresa"
+2. Escribe "# 1. IDENTIDAD DE LA EMPRESA" como título
+3. Copia todo el contenido del archivo "2. Identidad de la Empresa.docx"
+4. Pega en la página, manteniendo el formato de encabezados y listas
+
+## PASO 4: CREAR BASES DE DATOS
+
+### Base de Datos: Casos (en página 12)
+1. En la página "12. Casos, Testimonios y Evidencias Reales"
+2. Crea una base de datos con estos campos:
+   - `Nombre` (Título)
+   - `Cliente/Contexto` (Texto)
+   - `Situación inicial` (Texto)
+   - `Problema clave identificado` (Texto)
+   - `Intervención` (Texto)
+   - `Herramientas utilizadas` (Texto)
+   - `Resultado` (Texto)
+   - `Aprendizaje clave` (Texto)
+   - `Fecha` (Fecha)
+   - `Estado` (Selección: "Borrador", "Validado", "Publicado")
+
+### Base de Datos: Roles (en página 14)
+1. En la página "14. Escalado, Roles y Delegación"
+2. Crea una base de datos con estos campos:
+   - `Nombre del Rol` (Título)
+   - `Objetivo principal` (Texto)
+   - `¿Delegable?` (Checkbox)
+   - `Nivel de supervisión` (Texto)
+   - `Ejemplo de tarea` (Texto)
+
+### Base de Datos: CRM (en página 15)
+1. En la página "15. Sistema Comercial Mínimo"
+2. Crea una base de datos con estos campos:
+   - `Nombre` (Título)
+   - `Negocio / Perfil` (Texto)
+   - `Estado` (Selección: "Lead frío", "Interesada", "Propuesta enviada", "En negociación", "Cerrado - Ganado", "Cerrado - Perdido")
+   - `Último contacto` (Fecha)
+   - `Próximo paso` (Texto)
+   - `Notas clave` (Texto)
+
+### Base de Datos: Matriz de Contenido (en página 13)
+1. En la página "13. Matriz Visibilidad Contenido"
+2. Crea una base de datos con estos campos:
+   - `Tipo de Contenido` (Título)
+   - `Canal Principal` (Texto)
+   - `Frecuencia` (Texto)
+   - `Objetivo` (Texto)
+   - `KPIs` (Texto)
+
+## PASO 5: CONFIGURAR VISTAS Y ENLACES
+
+1. En cada página, crea enlaces a páginas relacionadas:
+   - En "2. Modelo de Negocio", enlaza a "3. Productos y Servicios" y "4. Procesos Operativos"
+   - En "10. Sistema de Toma de Decisiones", enlaza a todas las demás páginas
+
+2. Configura vistas en las bases de datos:
+   - En la base de datos "Casos", crea vistas para "Borradores", "Validados" y "Publicados"
+   - En la base de datos "CRM", crea vistas para cada estado de lead
+
+## PASO 6: CONFIGURAR PLANTILLAS
+
+1. En la base de datos "Casos", crea una plantilla llamada "Nuevo Caso" con:
+   - Estructura predefinida basada en la "Estructura Tipo para un Caso de Éxito"
+   - Campos prellenados con instrucciones
+
+2. En la base de datos "CRM", crea una plantilla llamada "Nuevo Lead" con:
+   - Campos predefinidos para captura inicial
+   - Checklist de acciones iniciales
+
+## PASO 7: CONFIGURAR CALENDARIO EDITORIAL
+
+1. En la página "13. Matriz Visibilidad Contenido"
+2. Crea una vista de calendario para el contenido
+3. Programa publicaciones futuras usando la Matriz de Contenido
+
+## PASO 8: CONFIGURAR SISTEMA DE REVISIÓN
+
+1. En la página "0. Guía de Uso y Escalado"
+2. Crea recordatorios para las revisiones:
+   - Mensual: primer lunes de cada mes
+   - Trimestral: primer lunes de enero, abril, julio, octubre
+   - Anual: primer lunes de enero
+
+## PASO 9: IMPORTAR PLANTILLAS DE HOJAS DE CÁLCULO
+
+1. Convierte los archivos Excel/Sheets a bases de datos en Notion:
+   - CRM_Básico_Gastronom.xlsx → Base de datos CRM
+   - Calculadora_VCOR.xlsx → Base de datos Finanzas
+   - Tablero_Financiero_Mensual.xlsx → Base de datos Finanzas
+
+2. Para cada fórmula en Excel, crea una fórmula equivalente en Notion:
+   - Ejemplo: En Notion, usa "formula" para replicar cálculos de margen bruto
+
+## PASO 10: CONFIGURAR AUTOMATIZACIONES BÁSICAS
+
+1. Configura automatizaciones simples con Notion Automations:
+   - Cuando se crea un nuevo caso en estado "Validado", notificar por correo
+   - Cuando un lead pasa a "Cerrado - Ganado", crear automáticamente un proyecto
+
+## PROMPT PARA OTRO LLM (SI NO PUEDES IMPLEMENTARLO TÚ MISMO)
+
+"Actúa como un experto en Notion con experiencia en sistemas de gestión del conocimiento. Necesito que implementes una 'Biblia Corporativa' para una consultoría gastronómica llamada Gastronom Ia I+. Aquí están las instrucciones detalladas:
+
+1. Crea un espacio llamado 'Gastronom Ia I+ - Biblia Corporativa' con icono 📚
+2. Crea 17 páginas principales en el nivel raíz con estos nombres y emojis:
+   - 🧭 0. Guía de Uso y Escalado
+   - 🎯 1. Identidad de la Empresa
+   - 🧱 2. Modelo de Negocio
+   - 🛠️ 3. Productos y Servicios
+   - ⚙️ 4. Procesos Operativos
+   - 📢 5. Marketing y Comunicación
+   - 🏢 6. Gestión Interna
+   - 💰 7. Finanzas y Métricas
+   - ⚖️ 8. Legal, Ética y Cumplimiento
+   - 🔮 9. Innovación y Futuro
+   - 🤔 10. Sistema de Toma de Decisiones
+   - 🧘 11. Sostenibilidad Personal
+   - 📚 12. Casos, Testimonios y Evidencias Reales
+   - 📝 13. Matriz Visibilidad Contenido
+   - 🚀 14. Escalado, Roles y Delegación
+   - 💼 15. Sistema Comercial Mínimo
+   - 🤝 16. Comunidad, Referidos y Alianzas
+
+3. Para cada página, usa el contenido proporcionado en los documentos .docx adjuntos (te los daré a continuación). Copia y pega el contenido manteniendo la estructura de encabezados y listas.
+
+4. Crea estas bases de datos:
+   - En página 12: Base de datos 'Casos' con campos: Nombre (título), Cliente/Contexto, Situación inicial, Problema clave, Intervención, Herramientas, Resultado, Aprendizaje clave, Fecha, Estado (Selección: Borrador, Validado, Publicado)
+   - En página 14: Base de datos 'Roles' con campos: Nombre del Rol (título), Objetivo principal, ¿Delegable?, Nivel de supervisión, Ejemplo de tarea
+   - En página 15: Base de datos 'CRM' con campos: Nombre (título), Negocio/Perfil, Estado (Selección: Lead frío, Interesada, Propuesta enviada, En negociación, Cerrado - Ganado, Cerrado - Perdido), Último contacto, Próximo paso, Notas clave
+   - En página 13: Base de datos 'Matriz de Contenido' con campos: Tipo de Contenido (título), Canal Principal, Frecuencia, Objetivo, KPIs
+
+5. Configura vistas en las bases de datos:
+   - En 'Casos': vistas para cada estado
+   - En 'CRM': vistas para cada estado de lead
+   - En 'Matriz de Contenido': vista de calendario para programar contenido
+
+6. Crea plantillas en las bases de datos:
+   - En 'Casos': plantilla 'Nuevo Caso' con estructura predefinida
+   - En 'CRM': plantilla 'Nuevo Lead' con checklist de acciones iniciales
+
+7. Configura enlaces entre páginas relacionadas:
+   - En '2. Modelo de Negocio', enlaza a '3. Productos y Servicios' y '4. Procesos Operativos'
+   - En '10. Sistema de Toma de Decisiones', enlaza a todas las demás páginas
+
+8. Configura recordatorios para revisiones:
+   - Mensual: primer lunes de cada mes
+   - Trimestral: primer lunes de enero, abril, julio, octubre
+   - Anual: primer lunes de enero
+
+9. Convierte las hojas de cálculo proporcionadas en bases de datos de Notion:
+   - CRM_Básico_Gastronom.xlsx → Base de datos CRM
+   - Calculadora_VCOR.xlsx → Base de datos Finanzas
+   - Tablero_Financiero_Mensual.xlsx → Base de datos Finanzas
+
+10. Configura automatizaciones básicas:
+    - Cuando se crea un caso en estado 'Validado', notificar por correo
+    - Cuando un lead pasa a 'Cerrado - Ganado', crear automáticamente un proyecto
+
+Aquí está el contenido para cada página (en formato .docx): [Inserta aquí el contenido de los documentos .docx proporcionados en la Sección 1]
+
+Por favor, implementa este sistema exactamente como se describe, manteniendo toda la estructura y contenido proporcionado. El resultado debe ser un sistema operativo completo y funcional para Gastronom Ia I+."

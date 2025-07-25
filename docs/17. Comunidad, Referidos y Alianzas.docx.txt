@@ -1,0 +1,99 @@
+# 16. COMUNIDAD, REFERIDOS Y ALIANZAS
+
+## OBJETIVO
+
+Definir la estrategia para construir y mantener una red de apoyo, referidos y alianzas estratégicas que refuercen el posicionamiento, generen leads cualificados y aporten valor al ecosistema profesional.
+
+## TIPOS DE ALIADOS
+
+| Tipo de aliado | Características clave | Ejemplo real |
+|----------------|------------------------|--------------|
+| Cliente transformado | Ha vivido el proceso y lo valora | Cafetería que aplicó VCOR® |
+| Docente con afinidad | Comparte enfoque, materiales o red | Profesor FP en cocina |
+| Profesional complementario | Aporta valor desde otra disciplina | Fotógrafo de producto local |
+| Difusor generoso | Comparte tu contenido sin pedir nada | Contacto que comparte en IG |
+
+## CRITERIOS PARA UNA RELACIÓN DE VALOR
+
+- **Ha citado tu trabajo sin que se lo pidas.**
+- **Recomienda a alguien con honestidad.**
+- **Participa en lo que compartes (responde, aporta).**
+- **Usa tus herramientas o habla de ellas.**
+- **Ha dicho explícitamente: "Me gustaría ayudarte."**
+
+**Acción mínima:** Mantener una lista viva de aliados en Notion o Sheets, con tipo de vínculo, acciones previas y potencial.
+
+## ESTRATEGIAS DE ACTIVACIÓN COMUNITARIA
+
+### 1. Referidos con propósito
+- **Mensaje tipo:** "Si esto te ha servido, ¿conoces a alguien a quien también podría ayudar?"
+- **Incentivo simbólico:** Sesión extra, recurso exclusivo
+- **Sistema de seguimiento:** Quién refirió a quién
+
+### 2. Sistema de 3-5 personas clave
+- **Selección:** Personas que te inspiran o te desafían
+- **Acción:** Compartir avances o bloqueos una vez al mes
+- **Formato:** Voz, texto o directo corto
+
+### 3. Encuentros micro
+- **Formato:** Mini encuentros online de 30 min
+- **Temas:** "¿Qué estás viendo tú en tu sector ahora?"
+- **Grabación:** Solo si ambas partes lo permiten
+
+### 4. Newsletter como base relacional
+- **Invita a responder:** Preguntas abiertas al cierre
+- **Destaca aportes:** De otros en tu comunidad
+- **Contenido exclusivo:** Para suscriptores
+
+## ESTRUCTURA PARA LA COMUNIDAD
+
+### Directorio público
+- **Contenido:** Lista de aliados y referentes en la web
+- **Formato:** Página en tu sitio web
+- **Actualización:** Mensual
+
+### Comunidad privada
+- **Plataforma:** Grupo de WhatsApp o Telegram
+- **Reglas claras:** Propósito, normas de participación
+- **Moderación:** Activa pero flexible
+
+### Canal de Telegram
+- **Propósito:** Compartir recursos y novedades
+- **Contenido:** Tips rápidos, enlaces útiles, preguntas
+- **Frecuencia:** 2-3 veces por semana
+
+### Espacio de co-creación
+- **Proyectos:** Conjuntos con aliados
+- **Ejemplos:** Webinars conjuntos, guías compartidas
+- **Reglas:** Beneficio mutuo, reconocimiento claro
+
+## PROTOCOLO DE ACTIVACIÓN
+
+### Paso 1: Identificación
+- **Acción:** Identificar 5-10 aliados potenciales
+- **Criterios:** Valores compartidos, complementariedad
+- **Herramienta:** Lista en Sheets/Notion
+
+### Paso 2: Contacto inicial
+- **Acción:** Mensaje personalizado
+- **Contenido:** 
+  - Por qué te interesa conectar
+  - Qué valor puedes aportar
+  - Sugerencia concreta de colaboración
+- **Ejemplo:** "Vi tu trabajo en X, me encantaría colaborar en Y"
+
+### Paso 3: Propuesta concreta
+- **Acción:** Ofrecer colaboración específica
+- **Ejemplos:**
+  - Co-crear contenido
+  - Recomendar mutuamente
+  - Compartir recursos
+- **Regla:** Siempre aportar valor primero
+
+### Paso 4: Seguimiento y nutrición
+- **Acción:** Mantener contacto regular
+- **Frecuencia:** Mensual o cada 2 meses
+- **Formato:** Mensaje breve, compartir recurso útil
+
+## DOCUMENTO VIVO
+Documento estructural para marca a largo plazo. Revisar y actualizar mensualmente.

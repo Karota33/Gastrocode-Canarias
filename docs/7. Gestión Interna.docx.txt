@@ -1,0 +1,112 @@
+# 6. GESTIÓN INTERNA
+
+## PRINCIPIOS DE TRABAJO INTERNO
+
+### Documentación como base
+- Todo proceso, aprendizaje y decisión clave se documenta
+- Ejemplo: Cada Diagnóstico 360° se documenta en Notion con aprendizajes
+- **Herramienta:** Base de conocimiento en Notion (ver Sección 3)
+
+### Sin improvisar
+- Se planifica con antelación, se usan sistemas y checklists
+- Ejemplo: Checklist de inicio de proyecto para no olvidar pasos
+- **Herramienta:** Checklist Inicio Proyecto (ver Sección 3)
+
+### Foco absoluto
+- Se prioriza un número limitado de tareas estratégicas activas
+- Ejemplo: Solo 3 proyectos activos al mismo tiempo
+- **Herramienta:** Sistema 10 (documento 10)
+
+### Herramientas accesibles
+- Se prefieren herramientas simples, dominadas y que aporten valor real
+- Ejemplo: Sheets en lugar de software costoso para análisis financiero
+- **Herramienta:** Tablero Financiero Mensual (ver Sección 3)
+
+### Iterativo y vivo
+- Los sistemas se prueban, miden, ajustan y mejoran continuamente
+- Ejemplo: Cada 4 proyectos, se actualiza la Calculadora VCOR®
+- **Herramienta:** Sistema de Mejora Continua (ver Sección 3)
+
+## ROLES Y RESPONSABILIDADES
+
+### Rol Actual (Unipersonal)
+- **Responsable de:** Todos los aspectos del negocio
+- **Límite:** Máximo 3 proyectos activos simultáneamente
+- **Herramienta:** Calendario de proyectos en Notion
+
+### Roles para Delegación (Futuro)
+| Rol | Objetivo principal | ¿Delegable? | Nivel supervisión | Ejemplo tarea |
+|-----|--------------------|-------------|-------------------|---------------|
+| Asistente operativo | Apoyo en tareas repetitivas | Sí | Bajo | Agendar, correos |
+| Editor entregables | Dar forma final a informes | Sí | Medio | Formato informes |
+| Coordinador proyecto | Seguimiento tareas/tiempos | Parcial | Alto | Gestionar hitos |
+| Consultor asociado | Ejecución partes del servicio | Parcial | Alto | Entrevistas |
+| Facilitador formativo | Impartir talleres/módulos | Sí | Medio | Dictar módulo |
+
+## HERRAMIENTAS TECNOLÓGICAS INTERNAS
+
+### Google Drive
+- **Estructura:**
+  - 00_Biblia_Corporativa
+  - 01_Clientes
+    - [Nombre cliente]
+      - 00_Información_básica
+      - 01_Diagnóstico
+      - 02_Plan_Acción
+      - 03_Implementación
+      - 04_Seguimiento
+  - 02_Marketing
+  - 03_Finanzas
+  - 04_Documentación
+
+### Notion
+- **Estructura:**
+  - Base de conocimiento (Biblia)
+  - Planificación de proyectos
+  - Gestión de tareas personales
+  - CRM básico
+  - Base de casos reales
+
+### Sistema de Gestión de Tareas
+- **Priorización diaria:**
+  1. Tarea estratégica (Sistema 10)
+  2. Tarea operativa (proyecto activo)
+  3. Tarea de mejora (Sistema 6)
+- **Herramienta:** Checklist Tareas Diarias (ver Sección 3)
+
+## CRITERIOS DE REVISIÓN DE ENTREGABLES
+
+### Valor real
+- ¿Resuelve un problema concreto del cliente?
+- Ejemplo: "Este informe identifica 3 fugas de margen >5%"
+
+### Comprensible
+- ¿Está escrito de forma clara, sin jerga?
+- Ejemplo: "En lugar de 'optimización de ROI', decimos 'aumentar tus ganancias'"
+
+### Mejorable
+- ¿Puede convertirse en un activo reutilizable?
+- Ejemplo: "Este informe se convierte en plantilla para futuros casos"
+
+## REVISIONES INTERNAS
+
+### Semanal (Viernes, 30 minutos)
+1. Revisión del "top 3 de tareas estratégicas activas"
+2. Planificación de la semana siguiente
+3. Evaluación honesta del estado de ánimo y energía
+4. Documentación de 1 aprendizaje clave
+
+### Mensual (Último lunes, 1 hora)
+1. Revisión de KPIs financieros
+2. Ajustes menores en procesos
+3. Revisión de leads/calendario
+4. Evaluación de 1 herramienta
+
+### Trimestral (Primer lunes, 2 horas)
+1. Auditar 1 proceso o herramienta clave
+2. Ajustes estratégicos
+3. Limpieza de sistemas
+4. Planificación trimestral
+
+## DOCUMENTO VIVO
+Este documento se actualiza cada vez que se identifica una mejora en la gestión interna.

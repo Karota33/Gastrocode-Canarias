@@ -1,0 +1,43 @@
+[ESTE ES UN FORMATO DE TEXTO QUE REPRESENTA UNA HOJA DE CÁLCULO]
+
+Hoja 1: Datos Básicos
+
+| Concepto | Valor |
+|----------|-------|
+| Ventas mensuales | [Entrada] |
+| Número de comensales | [Entrada] |
+| Días operativos/mes | [Entrada] |
+| Horas laborales/día | [Entrada] |
+
+Hoja 2: Costes Directos
+
+| Concepto | Fórmula | Valor |
+|----------|---------|-------|
+| Coste alimentos | [Entrada] | |
+| Coste bebidas | [Entrada] | |
+| Coste MO directa | [Entrada] | |
+| Prime Cost | =C3+C4+C5 | |
+| Prime Cost % | =C6/B2 | |
+
+Hoja 3: Análisis de Menú
+
+| Plato | Precio venta | Coste | Margen bruto | % margen | Rotación |
+|-------|--------------|-------|--------------|----------|----------|
+| [Entrada] | [Entrada] | [Entrada] | =B2-C2 | =D2/B2 | [Entrada] |
+| [Entrada] | [Entrada] | [Entrada] | =B3-C3 | =D3/B3 | [Entrada] |
+
+Hoja 4: Rentabilidad
+
+| Concepto | Fórmula | Valor |
+|----------|---------|-------|
+| Margen bruto total | =SUMA(Hoja3!D2:D10) | |
+| Margen bruto % | =B2/B1 | |
+| Punto de equilibrio | =B1*(1-B3) | |
+| Margen de seguridad | =B1-B4 | |
+
+Hoja 5: Recomendaciones
+
+[Automático basado en análisis]
+- Si Prime Cost % > 65%: "Tu Prime Cost está por encima del 65%. Debes reducir costes directos."
+- Si Margen bruto % < 60%: "Tu margen bruto es bajo. Revisa precios y costes de platos estrella."
+- Si Margen de seguridad < 20%: "Tu margen de seguridad es bajo. Necesitas aumentar ventas o reducir costes."

@@ -1,0 +1,43 @@
+[ESTE ES UN FORMATO DE TEXTO QUE REPRESENTA UNA HOJA DE CÁLCULO]
+
+Hoja 1: Resumen Ejecutivo
+
+| Concepto | Este mes | Mes anterior | Variación | Objetivo |
+|----------|----------|--------------|-----------|----------|
+| Ingresos | [Entrada] | [Automático] | [Automático] | [Entrada] |
+| Costes directos | [Entrada] | [Automático] | [Automático] | [Entrada] |
+| Margen bruto | =B2-B3 | [Automático] | [Automático] | [Entrada] |
+| Margen bruto % | =B4/B2 | [Automático] | [Automático] | [Entrada] |
+| Horas trabajadas | [Entrada] | [Automático] | [Automático] | [Entrada] |
+| Ingresos/hora | =B2/B6 | [Automático] | [Automático] | [Entrada] |
+
+Hoja 2: Análisis Proyectos
+
+| Proyecto | Cliente | Ingresos | Costes | Horas | Margen bruto | Margen % |
+|----------|---------|----------|--------|-------|--------------|----------|
+| [Entrada] | [Entrada] | [Entrada] | [Entrada] | [Entrada] | =C2-D2 | =E2/C2 |
+| [Entrada] | [Entrada] | [Entrada] | [Entrada] | [Entrada] | =C3-D3 | =E3/C3 |
+
+Hoja 3: Proyección Trimestral
+
+| Mes | Ingresos proyectados | Costes proyectados | Margen proyectado | Leads actuales |
+|-----|----------------------|--------------------|-------------------|----------------|
+| Mes actual | [Automático] | [Automático] | [Automático] | [Entrada] |
+| +1 | =B2*(1+C7) | [Automático] | [Automático] | [Entrada] |
+| +2 | =C2*(1+C7) | [Automático] | [Automático] | [Entrada] |
+
+Hoja 4: Acciones Clave
+
+| Acción | Responsable | Fecha límite | Estado | Impacto esperado |
+|--------|-------------|--------------|--------|------------------|
+| [Entrada] | Tú | [Entrada] | Pendiente | [Entrada] |
+| [Entrada] | Tú | [Entrada] | Pendiente | [Entrada] |
+
+Hoja 5: Checklist Financiero Mensual
+
+[ ] Recopilar datos de ingresos y costes
+[ ] Calcular KPIs internos
+[ ] Comparar con objetivos
+[ ] Identificar 1-2 áreas de mejora
+[ ] Documentar aprendizajes
+[ ] Implementar 1 mejora identificada
