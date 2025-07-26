@@ -3,34 +3,56 @@ name: Limpiar documentos
 on:
   push:
     paths:
-      - "docs/**/*.md"        # vigila la carpeta docs/
+      - "docs/**/*.md"         # vigila todos los .md de docs/
   workflow_dispatch:
 
 permissions:
-  contents: write            # permite que el workflow haga push
+  contents: write             # permite hacer push automático
 
 jobs:
   curar:
     runs-on: ubuntu-latest
     steps:
+      # 1) Traer el código
       - name: Checkout
         uses: actions/checkout@v4
         with:
           persist-credentials: false   # usamos un token limpio
 
+      # 2) Python para el script
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Instalar SDK OpenAI
-        run: pip install openai==0.28.1   # versión compatible
+      # 3) Instalar OpenAI SDK y Pandoc
+      - name: Instalar dependencias
+        run: |
+          pip install openai==0.28.1
+          sudo apt-get update
+          sudo apt-get install -y pandoc
 
+      # 4) Ejecutar el limpiador GPT
       - name: Ejecutar limpiador
         env:
           OPENAI_API_KEY: "${{ secrets.OPENAI_API_KEY }}"
         run: python .github/scripts/curate_docs.py
 
+      # 5) Generar PDF y DOCX de toda la carpeta docs/
+      - name: Construir PDF y DOCX
+        run: |
+          mkdir -p build
+          pandoc docs/**/*.md -s -o build/Biblia-CG.pdf
+          pandoc docs/**/*.md -s -o build/Biblia-CG.docx
+
+      # 6) Subir los artefactos para descarga
+      - name: Subir artefactos
+        uses: actions/upload-artifact@v4
+        with:
+          name: biblia-build
+          path: build/
+
+      # 7) Hacer commit y push de los cambios curados
       - name: Commit cambios curados
         env:
           TOKEN: "${{ secrets.GITHUB_TOKEN }}"
