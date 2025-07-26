@@ -11,17 +11,31 @@ tags: [consultoria, gastronomia]
 ---
 No cambies el sentido del texto; responde solo con el documento corregido."""
 
-for md in pathlib.Path("docs").rglob("*.md"):
-    texto = md.read_text(encoding="utf-8")
-    prompt = TEMPLATE.format(title=md.stem.replace("-", " ").title())
+CHUNK_SIZE = 8000            # ~8000 caracteres ≈ 3500-4000 tokens
 
+def limpiar_texto(titulo: str, texto: str) -> str:
+    prompt = TEMPLATE.format(title=titulo)
     try:
-        respuesta = openai.ChatCompletion.create(
+        resp = openai.ChatCompletion.create(
             model=MODEL,
             messages=[{"role": "user", "content": prompt + "\n\n" + texto}],
             temperature=0
-        ).choices[0].message.content
-        md.write_text(respuesta, encoding="utf-8")
-        print(f"✔️ Curado {md}")
+        )
+        return resp.choices[0].message.content
     except InvalidRequestError as e:
-        print(f"⚠️  {md} SALTADO – demasiado grande: {e}")
+        print(f"⚠️  Lote saltado por error: {e}")
+        return texto  # devuelve el original sin cambios
+
+for md in pathlib.Path("docs").rglob("*.md"):
+    original = md.read_text(encoding="utf-8")
+    titulo = md.stem.replace("-", " ").title()
+
+    # Divide en trozos y procesa cada uno
+    partes = [
+        original[i : i + CHUNK_SIZE] for i in range(0, len(original), CHUNK_SIZE)
+    ]
+    partes_limpias = [limpiar_texto(titulo, p) for p in partes]
+    resultado = "\n".join(partes_limpias)
+
+    md.write_text(resultado, encoding="utf-8")
+    print(f"✔️ Curado {md} (partes: {len(partes)})")
